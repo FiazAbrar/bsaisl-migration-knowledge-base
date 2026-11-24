@@ -1,0 +1,1929 @@
+fundamentals working papers
+
+
+
+
+    For a fee
+    The business of recruiting
+    Bangladeshi women for domestic work
+    in Jordan and Lebanon
+
+
+
+F air recruitment initiative
+FOR A FEE
+The business of recruiting
+Bangladeshi women for domestic
+work in Jordan and Lebanon
+
+Katharine Jones
+Copyright © International Labour Organization 2015
+First published 2015
+
+
+Publications of the International Labour Office enjoy copyright under Protocol 2 of the Universal Copyright
+Convention. Nevertheless, short excerpts from them may be reproduced without authorization, on condition
+that the source is indicated. For rights of reproduction or translation, application should be made to ILO
+Publications (Rights and Licensing), International Labour Office, CH-1211 Geneva 22, Switzerland, or by
+email: rights@ilo.org. The International Labour Office welcomes such applications.
+
+Libraries, institutions and other users registered with a reproduction rights organization may make copies
+in accordance with the licenses issued to them for this purpose. Visit www.ifrro.org to find the reproduction
+rights organization in your country.
+
+
+For a fee: the business of recruiting Bangladeshi women for domestic work in Jordan and Lebanon /
+International Labour Office. - Geneva: ILO, 2015
+(Working paper; No. 2/2015)
+
+International Labour Office
+
+international migration / migrant worker / women workers / domestic work / recruitment / employment
+service / regulation / business strategy / Bangladesh / Jordan / Lebanon
+
+14.09.2								                                                     ILO Cataloguing in Publication Data
+
+
+
+The designations employed in ILO publications, which are in conformity with United Nations practice, and
+the presentation of material therein do not imply the expression of any opinion whatsoever on the part of the
+International Labour Office concerning the legal status of any country, area or territory or of its authorities,
+or concerning the delimitation of its frontiers.
+The responsibility for opinions expressed in signed articles, studies and other contributions rests solely with
+their authors, and publication does not constitute an endorsement by the International Labour Office of the
+opinions expressed in them.
+Reference to names of firms and commercial products and processes does not imply their endorsement by
+the International Labour Office, and any failure to mention a particular firm, commercial product or process
+is not a sign of disapproval.
+ILO publications and digital products can be obtained through major booksellers and digital distribution
+platforms, or ordered directly from ilo@turpin-distribution.com. For more information, visit our website:
+www.ilo.org/publns or contact ilopubs@ilo.org.
+
+
+
+
+Printed in Switzerland
+
+
+
+
+ iv
+Preface
+
+
+              Fundamental principles and rights at work are at the core of ILO’s decent work agenda. The
+          ILO Declaration on Fundamental Principles and Rights at Work and its follow-up was adopted
+          by governments, workers and employers at the International Labour Conference in 1998.
+          The principles and rights enshrined in the 1998 Declaration – the elimination of child labour,
+          forced and compulsory labour, discrimination at work and respect for freedom of association
+          and collective bargaining – are recognized as universal human rights.
+
+             The Fundamental Principles and Rights at Work Branch (FUNDAMENTALS) provides
+          leadership and knowledge to sustain and accelerate progress towards the full realization of
+          those rights worldwide. A central component of its integrated Strategy (2015-2020) is to further
+          enhance global understanding of effective policies in order to build a solid human rights and
+          business case for the promotion of fundamental principles and rights at work. The strategy
+          recognizes the importance of research on labour recruitment and employment practices as a
+          basis for more effective laws and policies to prevent violations of fundamental rights at work.
+
+              This working paper has been published as part of ILO’s Fair Recruitment Initiative which
+          was announced by the Director-General at the International Labour Conference in 2014. This
+          multi-stakeholder initiative is implemented in collaboration with the ILO’s Labour Migration
+          Branch (MIGRANT) and many international, regional and national partners. As such, it is also
+          an integral part of ILO’s Fair Migration Agenda which seeks to broaden choices for workers to
+          find decent work at home and abroad, with full respect of their human and labour rights.
+
+              A central pillar of the Fair Recruitment Initiative is to advance and share knowledge
+          on policies, laws, emerging practices and challenges related to the recruitment of workers
+          within and across countries. We hope that this working paper will stimulate debate and further
+          discussion on effective action to foster fair recruitment practices, prevent human trafficking
+          and reduce the costs of labour migration.
+
+              We would like to thank Katharine Jones for this important piece of research. Thanks are
+          also extended to the United Kingdom Department for International Development (DFID)
+          which administered and supported this research. The ideas, opinions and comments within
+          this publication are entirely the responsibility of its author and do not necessarily represent the
+          views or policies of DFID or the International Labour Organization.
+
+
+
+          Corinne Vargha, Chief					                                      Michelle Leighton, Chief
+          Fundamental Principles and Rights Branch			                     Labour Migration Branch
+
+
+
+
+                                                                                                          3v
+Table of Contents
+
+    Preface                                                            3
+    Table of Contents                                                  4
+    Acknowledgements                                                   5
+    List of Acronyms                                                   6
+    List of Figures                                                    6
+    List of Tables                                                     6
+    Glossary                                                           7
+
+
+1. Introduction                                                        9
+
+
+2. Regulating recruitment in Bangladesh, Jordan and Lebanon            12
+
+
+3. The labour recruitment business models in Jordan and Lebanon        15
+     a. Key features of recruitment industries in Jordan and Lebanon   15
+     b. Labour recruiter’s competitive strategies                      16
+         i. Selection of ‘migrant origin’ country                      16
+         ii. Advertising and promoting the recruiter or agency         17
+         iii. Personalized ‘job-matching’                              18
+         iv. End-to-end recruitment                                    20
+         v. Outsourcing recruitment to orgini country recruiters       20
+         vi. Advice on the employment relationship                     22
+     c. Profitability and business risks                               24
+         i. Income and profits                                         24
+         ii. Recruitment business risks                                26
+
+
+4. The recruitment business model in Bangladesh                        29
+     a. Income and profits                                             31
+     b. Business risks                                                 33
+
+
+5. Conclusion                                                          36
+
+
+Biblipgraphy                                                           37
+Appendix 1: Ratification table                                         39
+Appendix 2: Study methodology                                          40
+
+
+
+
+4
+Acknowledgements
+
+
+          This study was prepared in the context of the ILO’s Work in Freedom programme (WIF),
+      which promotes fair recruitment of women and girls from South Asia and thus contributes to
+      the prevention of human trafficking in this region and in the Middle East.
+
+          The author would like to extend her sincere gratitude to all interviewees who kindly gave up
+      their time to participate in this research, with a special mention for the women in Bangladesh
+      who had returned from working as domestic workers in Jordan and Lebanon and who so
+      willingly shared their experiences with us.
+
+          With gratitude to all those who have contributed to this report through conducting
+      interviews, commenting on early drafts of the report, and guiding the author in analysis,
+      including Ms. Leena Ksaifi, Professor Abul Barkat PhD (HDRC), Dr. Rafique Abdur, Sk. Ali
+      Ahmed (HDRC) and Rami T. Asrawi.
+
+          Last, but not least, with thanks for all the assistance and support provided by ILO staff,
+      including: Beate Andrees, Leanne Melnyk, Alix Nasri, Caroline O’Reilly, Peter Swiniarski
+      (FUNDAMETALS), Zulum Avila (CEPOL), Hans Van de Glind (ROAS), Bharati Pokharel,
+      Bina Kunwar Thapa (CO-Kathmandu), Igor Bosc and Bharti Birla (CO-New Delhi).
+
+         The realization of this research project was made possible through funding from the United
+      Kingdom Department for International Development (DFID).
+
+
+
+
+                                                                                                   5
+List of Acronyms
+
+
+BAIRA		        Bangladesh Association of International Recruiting Agencies
+
+BMET 		        Bangladesh Bureau of Manpower and Training
+
+DFID 		        United Kingdom Department for International Development
+
+ILO 		         International Labour Organization / Office
+
+NGO 		         Non-government Organization
+
+OHCHR          Office of the High Commissioner for Human Rights
+
+SAP-FL         Special Action Programme to Combat Forced Labour
+
+US 		          United States
+
+US$		          United States Dollars ($)
+
+
+
+
+List of Figures
+
+
+Figure 1: Division of labour – the role of recruiters in Jordan and Lebanon                       21
+
+Figure 2: Division of labour – the role of recruiters and sub-agents in Bangladesh                30
+
+Figure 3: Model of the profits and fees generated by labour recruiters in Jordan and Lebanon      34
+
+
+
+
+List of Tables
+
+
+Table 1: Laws, regulations and policies governing international recruitment of domestic workers 12
+
+Table 2: Fees charged to employers by origin country of the domestic worker (in US$)              17
+
+Table 3: Criteria for selection of origin country partners by Jordanian and Lebanese recruiters   22
+
+Table 4: Approximate costs of recruiting a Bangladeshi domestic worker in Jordan and Lebanon 25
+
+
+
+
+6
+Glossary1
+
+
+                 Term                                                                       Definition
+
+Labour Recruiter                               The term “labour recruiter” as expressed in the Forced Labour
+                                               (Supplementary Measures) Recommendation, No 203, can refer to
+                                               both private and public entities that offer labour recruitment services.
+                                               Private entities can take many forms: formal (e.g. registered under
+                                               commercial or other law) or informal (not registered), profit-seeking
+                                               (e.g. fee-charging agencies) or non-profit (e.g. trade union hiring halls).
+
+
+
+Private Employment                             Private employment agencies fall within the definition of labour recruiters.
+Agencies                                       In particular, they are defined by ILO Convention No. 181 as “a natural or
+                                               legal person, independent of the public authorities, which provides one
+                                               or more of the following labour market services: (a) services for matching
+                                               offers of and applications for employment, without the private employment
+                                               agency becoming a party to the employment relationships that may arise
+                                               therefrom; (b) services consisting of employing workers with a view to
+                                               making them available to a third party, who may be a natural or legal
+                                               person (referred to below as a “user enterprise”) that assigns their tasks
+                                               and supervises the execution of these tasks; (c)other services relating to
+                                               job-seeking, determined by the competent authority after consulting the
+                                               most representative employers and workers organizations, such as the
+                                               provision of information, that do not set out to match specific offers of and
+                                               applications for employment.” (Art. 1.1).
+
+
+
+Migrant Worker                                 As per the International Convention on the Protection of the Rights of All
+                                               Migrant Workers and Members of Their Families definition, a migrant
+                                               worker is “a person who is to be engaged, is engaged or has been
+                                               engaged in a remunerated activity in a state of which he or she is not
+                                               a national”.
+
+
+
+Domestic worker                                According to the ILO Domestic Workers Convention of 2011 (No. 189),
+                                               a domestic worker is “any person engaged in domestic work within
+                                               an employment relationship.” “Domestic work” is “work performed in
+                                               or for a household or households.” It may involve a range of tasks,
+                                               including cooking, cleaning the house, washing and ironing the laundry,
+                                               general housework, looking after children, the elderly or persons with
+                                               disabilities, as well as maintaining the garden, guarding the house
+                                               premises, and driving the family car.
+
+
+
+
+1
+    This Glossary only contains definitions that are provided in international standards.
+
+
+                                                                                                                          7
+        Term                                           Definition
+
+Traficking in Persons   Article 3, paragraph (a) of the Protocol to Prevent, Suppress and
+                        Punish Trafficking in Persons defines Trafficking in Persons as the
+                        recruitment, transportation, transfer, harbouring or receipt of persons,
+                        by means of the threat or use of force or other forms of coercion,
+                        of abduction, of fraud, of deception, of the abuse of power or of a
+                        position of vulnerability or of the giving or receiving of payments
+                        or benefits to achieve the consent of a person having control over
+                        another person, for the purpose of exploitation. Exploitation shall
+                        include, at a minimum, the exploitation of the prostitution of others or
+                        other forms of sexual exploitation, forced labour or services, slavery
+                        or practices similar to slavery, servitude or the removal of organs.
+
+
+
+Forced Labour           The ILO Forced Labour Convention (No. 29) of 1930 defines forced
+                        or compulsory labour as “all work or service which is exacted from
+                        any person under the menace of any penalty and for which the said
+                        person has not offered himself voluntarily.” The Protocol of 2014
+                        to the Forced Labour Convention reaffirmed this definition, and
+                        stressed the need for “specific action against trafficking in persons
+                        for the purposes of forced or compulsory labour.”
+
+
+
+
+8
+1. Introduction
+
+
+    Since the mid-1990s, the number of domestic workers employed in private households has tripled to more than
+53 million worldwide.2 Young women and girls recruited from low income to richer countries most often perform
+this labour, which can encompass cooking, cleaning, laundry and shopping; caring for children, the elderly, persons
+with disabilities and pets; gardening; driving; and other tasks.3 The Middle East has become an especially important
+destination, with levels of demand for domestic help rising significantly over the past 20 years. Exploitation of
+migrant domestic workers – who are almost always women - is well documented. Abuses range from low pay
+and poor employment conditions to egregious violations of human and labour rights, such as forced labour, and
+physical and sexual violence.4 While the responsibility of employers in such cases may be incontrovertible, the
+specific contribution of the individuals and businesses that recruit and place migrant domestic workers is far less
+documented. Still less known is how to effectively tackle recruitment abuses.
+
+    This study aims to shed light on the industry that profits from the recruitment of women from South Asian
+countries into domestic work employment in the Middle East, with a particular focus on Bangladesh, Jordan and
+Lebanon. It analyses the ‘business model’ utilised by labour recruiters to generate income and profit and to minimize
+risk and loss. In the case of international recruitment, in order to profit, recruiters must devise competitive strategies
+to generate income greater than the costs of finding, selecting, processing and mobilising people into jobs.5 By
+illuminating how and why such recruiters do what they do, the study aims to inform better policies and interventions
+to protect migrant domestic workers and eliminate abusive recruitment and employment practices.
+
+    Private householders in both Jordan and Lebanon started recruiting migrant domestic workers in large numbers
+in the 1980s and 1990s, mostly on a “live-in” basis.6 Officially, Jordan hosts some 70,000 migrant domestic workers,
+with an estimated twice that number employed unofficially,7 while Lebanon hosts over 250,000 migrant women
+domestic workers.8 Bangladeshi women currently comprise the largest nationality group of migrant domestic
+workers in both countries.9 According to Bangladesh government data, in 2014, 76,007 Bangladeshi women
+migrated overseas – an increase of 174 per cent from 2011 –, including to Jordan and Lebanon, with the majority
+leaving for domestic work employment.10
+
+   Labour recruiters are part of an increasingly powerful migration industry that has grown in size and profitability
+since the mid-1990s, in line with the rise in international labour migration.11 In Lebanon, in 1997 there were 12
+legally operational (licensed) labour recruiters with an estimated 100 or more conducting business illegally.12
+
+
+
+
+2
+   ILO: Domestic workers across the world: Global and regional statistics and the extent of legal protection. ILO Conditions of Work and
+  Employment Branch (Geneva, 2013) Available at: http://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/
+  publication/wcms_173363.pdf The ILO estimates that 83 per cent of domestic workers are female. The estimated 53 million does not include child
+ domestic workers. See http://www.ilo.org/global/topics/domestic-workers/lang--en/index.htm
+3
+  The Domestic Work Convention, 2011 (No. 189) defines a domestic worker as any person engaged in domestic work within an employment
+  relationship. For an overview of different tasks involved in domestic work see B. Anderson: Doing the Dirty Work? The global politics of domestic
+  labour (London, Zed Books, 2000)
+4
+  See for example H. Harroff-Tavel and A. Nasri: Tricked and trapped: human trafficking in the Middle East, (Beirut, ILO, 2013); A. Pande: “The
+  Paper you have in your hand is my freedom: Migrant Domestic Work and the Sponsorship (Kafala) System in Lebanon”, International Migration
+  Review (2013, Vol. 47, Issue 2, June), pp. 414-441; E. Frantz: “Jordan’s Unfree Workforce: State-Sponsored Bonded Labour in the Arab Region”,
+  in The Journal of Development Studies (2013, Vol. 49, Issue 8, April), pp. 1072-1087 ; K. Hamill: “Trafficking of Migrant Domestic Workers in
+  Lebanon. A Legal Analysis. (Beirut, KAFA, 2011)
+5
+  Applying a business model approach is becoming more common in attempts to understand how and why private sector firms engage in forced
+  labour practices. E.g. see “Analysing the business model of trafficking in human beings to better prevent the crime”, OSCE and UN Gift joint
+  report, 2010 and J Allain et al.: “Forced Labour’s Business Models and Supply Chains”, Joseph Rowntree Foundation, 2013.
+6
+  Frantz, op. cit., pp.1072-1087
+7
+  See Jordan Ministry of Labour Statistics http://www.dos.gov.jo/dos_home_e/main/
+8
+  ILO Website: Countries covered – Lebanon, (n.d.), available at: http://www.ilo.org/beirut/countries/lebanon/lang--en/index.htm [accessed 4 June 2015].
+9
+  According to interviews conducted with government respondents in both Jordan and Lebanon during the early part of 2014.
+10
+   See BMET website http://www.bmet.gov.bd/BMET/stattisticalDataAction [accessed 4 June 2015]
+11
+   Introduction. The Migration Industry and the Commercialisation of International Migration. T. Gammeltoft-Hansen and N N. Sorensen (eds) 2012. Routledge London.
+12
+   See Ray Juredini, 2003, The Failure of State Protection: Household Guest Workers in Lebanon. In European Review of International Migration,
+    vol 19; 3. Pp95-127
+
+                                                                                                                                                              9
+    As of 2013, there were more than 543 registered domestic work recruiters.13 Globally, the industry is composed
+of an increasingly complex web of private sector actors, which includes recruiters and their sub-agents, pre-departure
+training centres, transport companies and travel agencies, medical screening centres, insurance companies and visa
+consultancies among many others. All these businesses profit from the recruitment of (migrant) workers from one
+country and their placement into jobs in another.
+
+    The ILO has long been concerned with protecting the rights of migrant workers. Basic standards are set out
+in the Migration for Employment Convention (Revised), 1949 (No. 97), the Migrant Workers (Supplementary
+Provisions) Convention, 1975 (No. 143), and their accompanying Recommendations. The Private Employment
+Agencies Convention, 1997 (No. 181) establishes international standards for public regulation of private employment
+agencies. The Domestic Workers Convention, 2011 (No. 189) sets standards for decent work for domestic workers,
+including ground rules for their recruitment and terms and conditions of employment.
+
+    Adopted most recently, the Protocol of 2014 to the Forced Labour Convention (No. 29), 1930, and its
+accompanying Recommendation (No. 203) sets additional standards relating to the prevention of forced labour and
+human trafficking, and protection and remedy for victims. It includes specific measures to ensure that recruitment
+fees or costs are not charged to workers and that adequate complaint mechanisms exist.14 The Protocol complements
+Convention No. 29 (1930) under which States undertake to suppress the use of all forms of forced or compulsory
+labour. Taken together, these Standards (along with the other fundamental Conventions) provide for a comprehensive
+set of international protections for migrant workers. These protections extend to the most vulnerable categories of
+workers, including women migrant domestic workers. They have been supplemented with non-binding guidance on
+regulating recruitment in the Multilateral Framework on Migration, 2006.15
+
+    The ILO fulfils its mandate to address the human and labour rights of migrant domestic workers through a
+tripartite structure comprising representatives of governments, and employers’ and workers’ organisations. This
+places the Organization in a unique position to provide assistance for international and national efforts to combat
+exploitation arising out of the recruitment process. Accordingly, in 2014, the ILO started consultations on a global
+“Fair Recruitment Initiative”, in collaboration with partner organisations, with the specific aims of: addressing
+regulatory and enforcement gaps in the governance of the recruitment industry; promoting ethical business behaviour
+by working closely with the industry and other stakeholders; and promoting social dialogue and strengthening the
+global knowledge base on what works in recruitment regulation. One component of the Fair Recruitment Initiative
+is focused on tackling abuses perpetrated against migrant women recruited from South Asia to the Middle East.16
+
+
+
+
+13
+   Interview with key informant from industry association, March 2014.
+14
+   Forced Labour (Supplementary Measures) Recommendation, 2014 (No. 203), Section 8
+15
+   The Framework emerged out of a 2004 Resolution at the 92nd session of the International Labour Conference on a fair deal for migrant workers
+   within the global economy, which called for an ILO Plan of Action on Labour Migration. The Framework was devised by a tripartite meeting of
+   experts, and the ILO Governing Body at its 295th session in March 2006 decided that it should be published and disseminated.
+   http://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/documents/publication/wcms_146243.pdf.
+16
+   See http://www.ilo.org/wcmsp5/groups/public/---ed_norm/---declaration/documents/publication/wcms_320405.pdf.
+17
+   The program has also partnered with the London School of Hygiene and Tropical Medicine.
+
+ 10
+   For the study, a team of researchers coordinated by the author of the report conducted 141 interviews with labour
+recruiters, sub-agents (often known in Bangladesh as dalals), government officials, trade union and civil society
+representatives and international organisation staff in the three countries (Bangladesh, Jordan and Lebanon).18
+An additional 15 interviews were conducted with Bangladeshi women who had returned from domestic work
+employment in Jordan and Lebanon. An extensive desk review was used to supplement and validate the empirical
+data.19 For the purpose of clarity, refer to the Glossary which defines the terms used in this report.
+
+
+
+
+18
+   An additional 52 interviews were conducted in Nepal and India. The data from these interviews has not been included in this report as there is
+   minimal labour recruitment from these countries into domestic work in Jordan and Lebanon.
+19
+   Further detail of the research methodology, including definition of terms used in the report, is provided in Appendix 2.
+
+
+                                                                                                                                               11
+2. Regulating recruitment in Bangladesh, Jordan and Lebanon
+
+
+    Recruitment business models are dynamic and especially sensitive to national laws, policies and
+regulations, including how well these are enforced. Regulation impacts labour recruiters in many ways,
+including at a minimum: the legal status of their business and operations, whether they can operate in other
+countries, which sectors they can operate in, and whether they can charge fees to their recruits. International
+recruitment business models are also extremely responsive to immigration and emigration regulations as
+negotiating these forms the core of their business. Table 1 sets out the key legislation and associated rules
+and regulations that currently govern the international recruitment industry operating between Bangladesh,
+Jordan and Lebanon.
+
+Table 1: Laws, regulations and policies governing international recruitment of domestic workers
+
+
+       Bagladesh                    Overseas Employment and Migrant Act, 2013 and associated Rules
+
+
+                                    Regulation no 12/2015. Regulation on organizing the private agencies for
+                                    recruitment of non-Jordanian domestic workers.
+
+          Jordan                    Regulation No. 90/2009. Of Domestic Workers, Cooks, Gardeners and
+                                    Similar Categories.
+
+                                    Memorandum of Understanding between Jordan and Bangladesh, 2012
+
+
+        Lebanon                     Order number 1/1, governing the work of placement agencies, 2011
+
+
+
+    These laws and regulations set the overall parameters within which labour recruitment business models
+can legally operate in and between each country.
+
+    In all three countries, labour recruiters and employment agencies must apply for and be granted a license
+to operate. In Jordan and Lebanon, the terms of the license restrict recruiters to providing recruitment
+services in the domestic work (household) sector. In Bangladesh, recruiters are not restricted to operating in
+certain sectors, but do require special authorisation to recruit women for overseas employment. According
+to a government notification regarding female emigration, recruiters in Bangladesh are also only allowed to
+recruit women aged 25 or older.21
+
+   Labour recruiters in Jordan and Lebanon are prohibited from charging migrant workers recruitment fees.
+On the other hand, appropriately licensed recruiters in Bangladesh are legally allowed to charge women
+migrant worker recruits up to 20,000 BDT (259 US$).22
+
+    Both Jordan and Lebanon have implemented regulations, which require recruiters to refund or ‘replace’
+domestic workers in a variety of circumstances. In Jordan, Regulation No. 12 of 2015 requires employers
+to purchase insurance from any legally licensed company that will cover the householder (employer) for
+
+
+
+
+20
+   Only selected provisions are highlighted here.
+21
+   Bangladesh Gazette Notification No. Prokaboikomo- 5/ a-2/ 2005/1628 Concerning the Migration of Women. Currently only 29 labour recruiters
+   have permission to recruit women, of which 28 are reported to be currently active. The Government of Bangladesh is considering issuing another
+  100 licences to meet demand arising from its recent (2015) agreement with the Kingdom of Saudi Arabia.
+22
+   Up to 80,000 BDT (1,036 US$) can be charged to men.
+
+ 12
+financial losses resulting from the worker leaving or ‘refusing to work’. In addition, recruiters are bound
+to replace domestic workers for employers in three circumstances. Firstly, recruiters must replace those
+who ‘refuse to work’ for their new employer during the first 30 days at no further cost to the householder
+and on condition that the original recruit is ‘transferred outside of the country’. Secondly, where a migrant
+worker fails to arrive in Jordan whether by choice or not, recruiters must provide their employer with a
+replacement domestic worker at no additional cost. Thirdly, the responsible recruiter must also replace a
+domestic worker if the employer finds her to be pregnant or are otherwise certified as unfit by the Ministry
+of Health. However, recruiters are not legally responsible for replacing a domestic worker if employers
+have caused her to leave their employment, such as in cases where they have assaulted the worker.23
+
+    Similarly, according to Ordinance No. 1/1 of 2011 in Lebanon, recruiters are also responsible for
+replacing domestic workers who are unable to “fulfil the tasks required for the job; refuses to work; is
+pregnant; or absconds from the employer.” The recruiter’s responsibility is extended to six months in cases
+where the domestic worker suffers from a “contagious disease or a disability that would keep her from
+performing her job and which did not show in the first three months of employment”.24
+
+    Immigration regulation also matters. To legally enter Jordan and Lebanon for the purpose of domestic
+work employment, Bangladeshi women must obtain an entry visa prior to arrival and an ‘advance approval’
+work permit. Jordan and Lebanon operate versions of the “kafala” system, under which a national sponsor
+(kafeel) is legally and financially responsible for her/his migrant domestic worker(s), including her
+repatriation at the end of the contract. Migrant domestic workers are not allowed to leave their employment
+or even the country without a notarized release waiver signed by the employer and approved by the
+authorities. Without up-to-date sponsorship, migrant domestic workers in Jordan and Lebanon are subject
+to imprisonment, deportation and fines.
+
+    Recruiters must also operate according to regulation that governs the employment relationship between
+householder and domestic workers. According to Regulation No. 90 of 2009, employers in Jordan are
+required to cover the costs of domestic workers’ residence permits and work permits, purchase an outgoing
+flight from her origin country to Amman and a return flight at the end of the two–year contract. Householders
+are also required to sign a standard employment contract of employment in Arabic and in a language that
+their recruit understands, with copies to be kept by the householder, the worker, the Ministry of Labour and
+the recruiter.25 According to the contract, the employer must purchase a return ticket, work and residency
+permits.26 Similarly, in Lebanon, a standard employment contract for domestic workers, introduced in 2009
+requires employers to purchase the annually renewable residence and work permits and to purchase a return
+flight.27
+
+
+
+
+23
+   Jordan, Regulation No. 12 of 2015 The Regulation of Organising the Private Offices of Recruiting Non-Jordanian House Workers (Articles 13A,
+   14A, 14B, 15A & 15C-1). Regulation No. 12 of 2015 replaces Regulation No. 89 of 2009.
+24
+   Lebanon, Ordinance No. 1/1 of 2011 (Article 18).
+25
+   Regulation 90 of 2009 of Domestic Workers, Cooks, Gardeners and Similar Categories. Official Gazette 2009-10-01. No 4989. P5348. This
+   Regulation also provides that the employer should treat the worker with respect, and supply all basic necessities such as clothing, food, beverage,
+   a well-ventilated and lit room, accommodation and the right to privacy; and that the worker should be enabled to call home once a month at the
+   expense of the householder, and be allowed to make further calls at her own expense, and abstain from taking the worker to another country unless
+   with the approval of the worker. The Regulation also provides for a 10 hour maximum working day, sleep time of no less than 8 hours a day, one
+   day off per week, annual leave (with the possible of deferment to the end of the contract) of 14 days, and sick leave of 14 days per annum.
+26
+   The contract also requires employers to provide workers with food, lodging, clothing and medical care; to not retain the worker’s passport; that the
+   worker should only work in the employer’s household; that the employer should not place any restrictions on the worker’s ability to communicate
+   with people outside the household; and, that the worker has the right to one day of rest per week.
+27
+   This contract is in Arabic and in a language the domestic worker understands. Similar to Jordan, the contract entitles workers to a ten hour
+   maximum working day, eight hours of sleep, one day off per week, six days annual leave per year, one paid phone call home per month and access
+   to more if paid for by self, and paid sick leave for half a month and unpaid for a further half.
+
+
+                                                                                                                                                  13
+    In addition to national laws and policies, bilateral (government to government) agreements that set out
+the terms and conditions for labour migration between two countries have become increasingly common in
+Asia. As such, in 2012, the governments of Jordan and Bangladesh signed a Memorandum of Understanding
+(bilateral agreement), in effect opening up the latter as a country from which women aged between 25 and
+46 could legally be recruited as domestic workers for households in the former. The governments agreed
+that the (Jordanian) employers should pay the full cost of recruiting Bangladeshi women, including visa
+fees and airfare; provide employees with private sleeping quarters and food; purchase a life insurance
+policy for their employee that covers the entire period of employment; and open a bank account in which
+her salary should be deposited each month. The governments of Lebanon and Bangladesh have not signed
+such an agreement, which leaves recruitment between these countries subject only to national regulation
+and the Standard Unified Contract.28
+
+
+
+
+28
+     See Appendix 3.
+
+
+ 14
+3. The labour recruitment business models in Jordan and Lebanon
+
+
+     The following sections analyse domestic work recruitment business models based on a total of 39
+interviews that were conducted with recruiters (owners or senior employees) in Amman, Jordan and Beirut,
+Lebanon. As the business of recruiting migrant domestic workers begins in the destination countries, the report
+first explains the business models of Jordanian and Lebanese labour recruiters. As subcontractors to the Jordan
+and Lebanon recruiters, the Bangladesh labour recruitment business model is addressed later in the report.
+
+
+a. Key features of recruitment industries in Jordan and Lebanon
+
+    Five key features characterise how labour recruiters in Jordan and Lebanon commonly operate. These
+features are influenced by the national regulations outlined above.
+
+    First, recruiters specialise in domestic work recruitment. Although interviewees in Jordan and Lebanon
+made some reference to recruiters and unlicensed agents recruiting for other sectors, including hospitality,
+the apparel industry (Jordan) and construction, it is clear that domestic work recruitment constitutes the
+bulk of the industry in these countries. This is in accordance with Regulation 12 of 2015, which only legally
+allows recruiters to hire non-Jordanian domestic workers and not for other sectors.29
+
+    Second, recruiters in Jordan and Lebanon tend to be micro-enterprises with four or five members of staff;
+the major multinational recruitment agencies are not present in the domestic work recruitment sector in either
+country. One explanation behind their absence is that recruitment license-holders (usually owners / Directors)
+are required by law to be nationals of those countries. In addition, recruiters are required by law to seek
+permission to open branch offices; as a consequence they mainly recruit for a very local client base.30
+
+    Third, recruiters in Jordan and Lebanon specialise in the international recruitment and placement of migrant
+domestic workers in private households. No recruiter interviewed for this study acknowledged recruiting a
+Jordanian or Lebanese national for a domestic work position.
+
+    Fourth, most employers prefer to use the paid services of a recruiter when seeking to employ migrant
+domestic workers, rather than doing so independently. In Jordan, this is because employers are required by law
+to use the services of a labour recruiter when recruiting internationally.31 In Lebanon, employers are legally
+free to recruit without using the services of a recruiter; however in practice most find it too challenging to do
+so. Employers in Lebanon who do not use the services of a recruiter are required to deposit a $1,000 bond with
+a government bank which acts as surety for the recruit’s return flight upon conclusion of the contract.
+
+     Fifth, migrant domestic workers recruited by labour recruiters are employed by the householder and not
+by the recruiter. This is because recruiters cannot legally act as a Kafala sponsor; instead recruiters receive
+a temporary power of attorney from the employer, which enables them to recruit migrant domestic workers.
+Moreover, in Jordan, recruiters are prohibited by law from supplying domestic workers for householders other
+than the employer named as the sponsor, or on a ‘per diem’ basis.32 This is with one exception: recruiters
+in Jordan are allowed to facilitate domestic workers who have ‘refused to work’ to work for alternative
+householders for the first 60 days after their arrival.33 Nevertheless, some recruiters referred to illegal business
+practices, such as recruiters (whether licensed or unlicensed) hiring out migrant domestic workers by the hour
+or the day to clean homes or offices beyond the scope of what was legally allowed according to the above. This
+practice was also witnessed by the researcher during the course of the research.
+
+29
+   Regulation 12 of 2015, Article 7-A
+30
+   Regulation 12 of 2015, Article 6-A
+31
+   Regulation 12 of 2015, Article 7-A-3
+32
+   Regulation 12 of 2015, Article 12-B.
+33
+   Regulation 12 of 2015, Article 15-D
+
+
+                                                                                                                15
+b. Labour recruiter’s competitive strategies
+
+
+
+    Within the parameters established by national regulation, recruiters devise strategies to conduct their
+business profitably and gain advantage over their competitors. Competitive strategies usually include plans
+as to how internal resources are deployed (e.g. where offices are established and how many), internal
+business processes, and how services are priced and marketed, which are formed in response to changes
+in market demand and worker/skills availability. For recruiters in Jordan and Lebanon, their clients are the
+employers rather than the domestic workers. The following, in addition to the general recruitment industry
+features outlined above, form the basis of their business models.
+
+
+        i. Selection of ‘migrant origin’ country
+
+    The first competitive strategy employed by recruiters involves the selection of origin countries
+from which to recruit domestic workers. This enables the recruitment of domestic workers of a specific
+nationality, which may include meeting their clients’ prejudices for particular nationalities. Within the 39
+(private recruitment agency) study participants, Jordanian recruiters focused primarily on domestic workers
+from Bangladesh, the Philippines and Sri Lanka. Lebanese recruiters focused on a wider range of origin
+countries including Bangladesh, Nepal, Sri Lanka (Asia), and from Burkino Faso, Cameroon, Ethiopia,
+Ghana, Kenya, Madagascar, and Togo (Africa). These origin countries are broadly representative of the
+mix of domestic worker nationalities in Jordan and Lebanon.
+
+    Underlying this competitive strategy are three rationales. First, selecting a particular country of origin
+gives recruiters access to a labour supply of potential domestic workers. In order to attract clients, recruiters
+in Jordan and Lebanon must have available a large and attractive selection of ‘domestic work candidates’
+from which clients can make their selection. In Lebanon and Jordan, the imposition of ‘recruitment bans’ by
+many countries of origin has left recruiters with a large shortfall in satisfying client demands for domestic
+workers. Although this study and others have found evidence that such bans do not stop recruitment from
+those countries entirely, it can slow it down as organising recruitment becomes more difficult.34 One Lebanese
+interviewee complained: “We are very limited in what nationality to advise employers on, because [of] so
+many bans.” On the other hand, recruiters in Jordan and Lebanon reported that Bangladesh still provides a
+plentiful source of migrant domestic workers.
+
+    Second, according to some recruiters interviewed, householders often have a preference for hiring
+domestic workers of specific nationalities. For instance, some Jordanian recruiters reflected during interviews
+that, given a preference, their clients would prefer to hire domestic workers from Indonesia because most
+share the same religion (in this case Muslim), and are believed to have a capacity for hard work. According
+to one recruiter, in 2010 a large number of migrant domestic workers arriving in Jordan were from
+Indonesia. However, as the Indonesian government subsequently imposed a ban on recruiting domestic
+workers to Jordan, Jordanian recruiters said they have not been able to (legally) recruit from Indonesia. The
+2012 bilateral agreement signed between the governments of Bangladesh and Jordan consequently allowed
+recruiters to meet their clients’ demands for domestic workers from a similar religious background with a
+reputation for being hard working. In other words, Bangladesh provided an alternative labour supply for
+recruiters’ clients in Jordan and Lebanon.
+
+
+
+
+34
+     See forthcoming study by ILO and Global Alliance Against Trafficking in Women analysing the affects of the Age Ban in Nepal (expected
+     publication date January 2016).
+
+
+ 16
+      Third, the choice of origin country also influences the cost of recruitment, which is correlated with the level
+ of fees that recruiters in Jordan and Lebanon charge their clients. What they charge employers for recruitment
+ in turn influences their ability to attract new clients. In other words, if fees are seen as too expensive by potential
+ clients, recruiters are likely to lose business; being able to offer cheap fees to employers is a competitive
+ advantage. Employer fees and recruitment costs vary for a variety of reasons including the cost of flights and
+ the fees charged by ‘counterpart’ recruiters in the country of origin. Table 2 records the range in total fees that
+ individual recruiters in Jordan and Lebanon reported charging to employers according to the origin country of
+ domestic workers.
+
+ Table 2: Fees charged to employers by origin country of the domestic worker (in US$)
+
+               Origin Country                                      Jordan                                       Lebanon
+
+                 Bangladesh                                   2,100 to 2,500                                 1,300 to 1,500
+
+                   Sri Lanka                                        4,000                                          3,000
+
+                  Philippines                                 3,528 to 5,646                                 2,500 to 4,500
+
+                    Ethiopia                                  None reported                                  1,900 to 2,300
+
+                     Kenya                                    None reported                                        2,500
+
+
+     Data in the table highlights the fact that recruiters in both Jordan and Lebanon charge less to employers
+ for domestic workers from Bangladesh than for other nationalities. By making available a new country
+ of origin (Bangladesh) through the signing of the bilateral agreement, the Jordanian government actively
+ promoted a reduction of fees charged to employers, which had reportedly risen to unprecedented levels.
+ As Jordanian Labour Minister Maher Wakid argued upon signing the 2012 agreement with the Bangladesh
+ government: “The opening of a new source country should contribute to minimising recruitment costs,
+ which we expect to drop to as low as JD 1,500 ($2,113) after reaching unprecedented figures up to nearly
+ JD 4,000 ($5,636).”35 The distribution of recruitment costs between countries of origin and destination are
+ described in more detail under the section C Profitability and Business Risks.
+
+
+         ii. Advertising and promoting the recruiter
+
+     Another competitive strategy used by recruiters in Jordan and Lebanon is to market their business to
+ a potential client base. This advertising is largely low-cost, with most new business generated by word of
+ mouth from existing clients, colleagues, friends and neighbours.
+
+     Recruiter in both countries also engage freelance “samsars / samsaras” (‘brokers’) to find them new
+ clients, paying fees of between 100 to 150 JDs ($140 to $210) per introduction. A Jordanian respondent
+ explained: “It is common practice that we rely on people who have good contacts and social skills to find us
+ clients. Another common practice is working with ex-agents who, for one reason or another, closed down
+ but still have a lot of good contacts/data.”
+
+
+
+
+35
+     See http://www.jordantimes.com/news/local/jordan-bangladesh-agree-domestic-help-recruitment [accessed 16 June 2015
+
+
+                                                                                                                              17
+    Recruiters in Jordan also pay for advertising space in print and broadcast media. One Jordanian recruiter
+explained which method generated more business for him: “I put one [advert] every week or every two
+weeks. Most of my clients come to me because they saw my ad, not through referrals. On TV, I put [the
+advert] three times for [a] duration of three months. But it wasn’t very effective. [A] daily newspaper is the
+best way as opposed to yellow pages or TV, because these newspapers are distributed to homes and offices.”
+
+    The recruitment industry association in Jordan does not, however, allow its members to advertise the
+price of recruitment, only the services that recruiters offer. The Association argues that this is to prevent
+migrant domestic workers from becoming treated as commodities, with a price literally ‘on their head’. In
+reality, it also prevents their members from competing for business on the basis of recruitment fees, which
+could potentially drive down profits. Lebanese recruiters are legally barred from such formal means of
+advertising. Nevertheless, recruiters complained during interviews that unlicensed recruiters often do so
+with little fear of any penalties being imposed.
+
+   In addition, recruiters in both Jordan and Lebanon mount displays and signage in their ‘shop-fronts’,
+advertising the services they offer in an attempt to attract new clients who walk past. Signage is often highly
+gendered, depicting a woman usually dressed in a maid’s outfit. Signage is also often highly racialised,
+specifically advertising the nationality/nationalities of its recruits.
+
+
+        iii. Personalised ‘job-matching’
+
+     Recruiters in Jordan and Lebanon engage in ‘matching’ potential domestic workers to employers as a
+competitive strategy. This includes offering personalised advice and expertise to employers when selecting a
+candidate. In order to select a domestic worker, potential clients enter the recruiter’s office and browse a file of
+prepared job applications, referred to as ‘bio-data forms’. These forms contain the personal details of women who
+are already preparing to migrate, including name, age, marital status and prior overseas and domestic employment
+experience. Profile photographs are attached. Some forms contain additional, more detailed information about
+the candidate’s experience in different households or caring tasks such as looking after seniors or children, as
+well as her willingness to undertake specific tasks such as gardening or looking after pets. Employers make their
+selection on the basis of the forms; no job interviews or further screening are conducted.
+
+    In order to help clients find a suitable domestic worker, representatives of labour recruiters ask their
+clients about the likely tasks she/he will want their domestic worker to carry out. They also ask about the
+size of the house, the family size and composition, whether the client entertains on a regular basis and
+whether she/he works outside the home. Recruiters may advise clients to recruit more than one domestic
+worker if they think that the size of household warrants it, generating another “sale” in the process: “[I]f the
+house is bigger than 300 to 350 meters I only will work with the client if they agree to employ two domestic
+workers, unless it is one person living in the house all alone. But if it is a family, the employer needs to
+hire two” explained one respondent. Recruiters also ask clients if she/he has a preference for a particular
+nationality, age, or marital status, for a woman36 from a rural or urban area, and whether the client would
+prefer their domestic worker to have received any formal education.
+
+    Recruiters also reported discussing domestic worker nationalities at some length with their clients;
+presenting their knowledge about attributes that, according to them, are associated with particular
+nationalities. Recruiters advise their clients which nationalities are likely to be able to learn Arabic, be
+obedient, run away or steal, and which nationalities are the most reliable and honest. For instance, a
+
+
+
+36
+     According to interviewees, it was taken for granted that the migrant domestic worker would be woman.
+
+
+ 18
+ Lebanese respondent advises his clients to hire domestic workers from Bangladesh because they have
+ “long patience and stay at home”. A second recommends Bangladeshi women to his clients because “they
+ are good and calm”, although he also warns them “they have a long hand” and that clients should watch
+ their valuable items. On the other hand, a third advises against hiring Bangladeshi domestic workers as they
+ ‘run away’. Which nationality they recommend to their clients, unsurprisingly, tends to be related to which
+ origin countries they are able to recruit from.
+
+     Recruiters also advise their clients about which nationality of domestic worker to hire based on what
+ the client can afford. As a Lebanese respondent put it: “If they have financial constraints, it will have to be
+ a Bangladeshi domestic worker.” In other words, if a recruiter perceives that the client does not have much
+ money, they will advise her/him to recruit their domestic worker from Bangladesh which costs less than
+ recruiting from other countries.
+
+     Recruitment agency owners and employees advise their clients on the best ‘age’ of a domestic worker.
+ Respondents argued women between the ages of 25 and 35 make the ‘best’ domestic workers. According
+ to them, women of this age are most physically fit and are consequently better able to manage arduous
+ household tasks.37 They advise their clients to hire an ‘older woman’ (defined as above 30) if the client has
+ an adolescent boy living at home. This, one interviewee shared, is to try and guard against unwanted or
+ inappropriate personal relations with the domestic worker. On the other hand, recruiters recommend that
+ clients hire younger domestic workers if the client needs a ‘babysitter’ in the belief that young women are
+ better able to play with children.
+
+     Providing advice on whether to hire a domestic worker with previous overseas experience is not so
+ straightforward. Prior experience is viewed as a ‘double-edged sword’. On the one hand, interviewees
+ argued, experienced candidates are likely to be better at caring for children, helping the household entertain,
+ and acting as housekeeper if the client is employed outside the home. On the other, they opined there is a
+ greater risk of her ‘running away’ as she is more likely to have friends locally and knowledge about how
+ to get around the city on her own. A Lebanese respondent asserted that, in general: “Employers don’t like
+ to employ someone who has worked in Lebanon before so that she doesn’t come with a social network,
+ demands to leave the house and see friends.”
+
+     The personal appearance of domestic workers is also subject to discussion between recruiters and their
+ clients, examined through photographs attached to the bio-data forms. Preferences vary, with some clients
+ wanting ‘pretty’ workers, and others the opposite, especially if there is an adolescent boy in the household.
+ Some prefer ‘thin’ women, believing that thin women will be physically fitter. A Jordanian respondent
+ recounted that her clients even tend to assess whether a woman looks ‘dominant or calm’ on the basis of the
+ photographs.
+
+     Ultimately, recruiters enable their clients to make their selection on this highly personalised basis.
+ However, this personalised job-matching process is one-sided. Only to a very limited extent, if at all,
+ do recruiters assess the suitability of their clients as employers, or the appropriateness of the household
+ for a ‘live-in’ migrant domestic worker. This is not part of the service required by the client; neither is
+ it mandatory by law. Only one out of 39 recruiters interviewed in Jordan and Lebanon asks where the
+ candidate will sleep, and this is asked only casually. In other words, if the client did not have separate
+ sleeping accommodation for a domestic worker, this would not be identified nor would it stop the recruiter
+ from providing services to that client.
+
+
+
+37
+     However, several of the returned Bangladeshi migrants interviewed had been under the age of 18 when they first left to work in the Middle East,
+     including in Jordan and Lebanon.
+
+
+                                                                                                                                                19
+      iv. End-to-end recruitment
+
+    The fourth competitive strategy is to offer employers a service that encompasses the entire end-to-end
+recruitment process. In order to recruit a domestic worker from overseas, householders need only to step
+through the door of a recruitment office and select their preferred domestic worker on the basis of her bio-
+data form. From that moment on, the recruiter manages the entire process.
+
+    Recruiters organise all the administrative and legal paperwork involved in recruiting a migrant domestic
+worker. They also offer a range of additional ancillary services to employers, including organising the
+mandatory health insurance and post-arrival medical tests. Clients need not concern themselves with how
+recruiters find domestic workers, whether they charge recruitment fees to women, the conditions the recruit
+may have to endure prior to reaching Jordan or Lebanon, or indeed what recruitment practices they engage
+in at all. As a Jordanian respondent emphasised: “From A-Z…we do the work permit, visa, residency,
+medical, insurance, airport pick up. No extra charge: it is all included in the price. All agencies are like
+that.” In some instances, the entire business may even be conducted electronically, using mobile phone
+technology, with the client never physically entering a recruitment office.
+
+     The speed with which recruiters can complete the full recruitment process is critical; delays are likely to
+hamper their ability to attract clients and to be paid promptly. Recruiters interviewed said that getting a domestic
+worker from Bangladesh into Jordan or Lebanon normally takes between 45 and 70 days. Most of this time
+is taken up with processing the required legal documentation. In order to speed up the process and make their
+business more attractive to clients who wish to hire a domestic worker more quickly, recruiters in Lebanon
+commonly offer their clients an expedited (but illegal) service. This involves buying a ‘ready-prepared’, ‘advance
+approval’ form from individuals who sell these forms from outside the Ministry of Labour in Beirut. This enables
+the recruiters to coordinate a worker’s arrival far more quickly than they would otherwise be able to do.
+
+    The following reproduces verbatim a snippet of conversation recorded by the researcher in a recruitment
+office in Beirut, between a potential client who had walked into the office and the office secretary:
+       Client: How long does recruitment need?
+       Secretary: About a month and a half. If you want her before, you need to pay General Security to get
+       [an] expedited visa. The faster you finish the visa, the sooner she comes. Within 15 days…
+
+
+      v. Outsourcing recruitment to origin country recruiters
+
+    The fifth competitive strategy is to subcontract domestic worker ‘sourcing’ to recruiters based in Bangladesh.
+Rather than opening overseas branch offices, Jordanian and Lebanese labour recruiters find migrant domestic
+workers through counterpart recruiters that are licensed in the country of origin. Outsourcing allows recruiters
+in Jordan and Lebanon to recruit women who live thousands of miles away while avoiding the high transaction
+costs and administrative challenges associated with the operation of overseas branch offices. Overall, this
+reduces their recruitment costs, which in turn, reduces the fee, which they charge to the employer.
+
+    Recruiters in Jordan and Lebanon operate a relatively strict division of labour with their partners
+in Bangladesh. This holds true for both long-term and intermittent business relationships. Recruiters in
+Jordan and Lebanon manage relationships with the ultimate end clients (the prospective employers), and
+are responsible for processing the required immigration documentation. Recruiters in Bangladesh have
+no contact with prospective employers, as the recruiters in Jordan and Lebanon are their clients. Instead,
+they process emigration documentation and prepare the recruit for departure (e.g. facilitating pre-departure
+training, medical screening and applying for a passport) (see below for how they manage this.)
+
+
+ 20
+                                        PREPARE AND ADVISE CLIENTS ON HOW TO
+                                          MANAGE WOMEN DOMESTIC WORKERS
+
+                                          prior to her arrival and on an on-going basis
+
+
+
+
+ADVISE CLIENTS ON SELECTION OF WOMEN                                                      PROCESS IMMIGRATION AND ASSOCIATED
+ DOMESTIC WORKERS (JOB-MATCHING)                                                          DOCUMENTATION ON BEHALF OF CLIENT
+
+
+
+
+                                        RECRUITERS IN JORDAN & LEBANON
+
+
+
+                BIO-DATA
+
+
+
+
+     PREPARE BIO-DATA FORMS                                                                   MANAGE CLIENT (EMPLOYER)
+   (APPLICATION FORMS) FOR CLIENTS                                                                RELATIONSHIPS
+
+
+
+
+                                           PARTNER WITH RECRUITERS
+                                                IN BANGLADESH
+
+
+
+
+Figure 1: Division of labour – the role of destination country recruiters
+
+
+
+
+                                                                                                                       21
+    Finding reliable business partners is crucial to the success of recruitment businesses at both ends of
+the process. Each relies on the other to deliver on ‘their part of the deal’. Most recruitment agency owners
+interviewed in Jordan and Lebanon had visited Bangladesh to assess potential partners before deciding
+to work with them. Recruiters reported assessing potential partners primarily on the volume of domestic
+workers they could provide and how quickly the women could arrive in Jordan and Lebanon. A Jordanian
+respondent related that he and his colleagues compete over which Bangladesh recruiter to work with,
+arguing that finding ‘good’ partners are “the secrets of the trade”. Table 3 sets out criteria in the selection
+process referred to by interviewees. It is notable that no interviewee asked whether potential partners charge
+recruitment fees to migrants, how they go about finding recruits or how potential partners inform their
+recruits about the terms and conditions of their employment. How migrant domestic workers will be treated
+during the recruitment process does not figure in discussions.
+
+Table 3: Criteria for selection of origin country partners by Jordanian and Lebanese recruiters
+
+
+         Ability to deliver the required number of domestic workers
+         Speed of recruitment
+         Ability to communicate, both in English and/or Arabic and via technology such
+         as Skype and Viber
+         Quality of the recruits (e.g. with experience, training)
+         Good arrangements for ‘genuine’ medical testing
+         Willingness to replace domestic workers if the employment breaks down in the
+         first three months (i.e. provision of a guarantee)
+         Reputation
+
+
+
+
+      vi. Advice on the employment relationship
+
+    The sixth competitive strategy that forms a key part of Jordanian and Lebanese business models is the
+advice given to their clients on how to ‘manage’ their domestic workers. This includes advice on how much
+to pay a new recruit and her treatment and cultural adaptation to the ways of her new home. This advice is
+part of the comprehensive, end-to-end service that recruiters offer clients. As one recruiter put it: “Whatever
+she [the employer] needs, we can assist her.”
+
+    Recruiters advise their clients to pay migrant domestic workers according to their nationality. Bangladeshi
+women are often paid the least with a monthly salary of approximately $100 to $150. Clients may also ask
+recruiters if they can ‘withhold’ salaries. One client who entered an office while the researcher was present
+clearly asked the secretary if this was possible:
+       Secretary: It is $1,900 dollars for an Ethiopian; their wage is $150.
+       Client: Withholding wages, in the contract it is written how many months the wages are withheld?
+
+    The food migrant domestic workers eat, according to recruiters interviewed, features especially strongly
+in these discussions. A Jordanian respondent recounted that he advises his clients that: “The main problem
+with Bangladeshi domestic workers is that they don’t like our food. They just like rice and spice. This
+
+
+
+ 22
+creates a problem. I advise employers to always cook Bangladeshi food when they prepare their own food.
+I have even given out five kilograms of rice to customers so they really understand the severity of this
+issue.” Some recruiters also said they had advised their clients about domestic workers’ likely personal
+hygiene standards and whether on arrival they should take them to a salon to be checked for lice.
+
+     According to interviewees, clients ask how many times their new recruit should be allowed to talk to her
+family and whether she should be allowed her own mobile phone. A Lebanese interviewee advises against
+allowing frequent calls home, arguing that if the parents of the domestic worker call her frequently, she will
+remain “emotionally attached to home, will be more likely to be homesick and more inclined to want to go
+home and therefore more likely to refuse to work”. A Jordanian respondent admitted checking whether the
+domestic worker had arrived with a mobile telephone. If she has, he takes this from her and gives it to the
+employer. This, he argued, is justified in order to stop her absconding from her employer which might arise
+if she becomes homesick from talking to her family: “I take the phone from the domestic worker and give
+it to the employer. We do this to prevent running away.”
+
+     Most significantly, recruiters teach employers how to discourage or prevent their new employees from
+running away. Some recruiters reported advising employers against letting their employee leave the house
+on her day off, in case she ‘runs away’. For instance, a Jordanian interviewee shared that she advises
+employers that they should “give [her] a day off but not outside the house.” Another that: “I advise them
+[employers] to monitor them [domestic workers] a lot in the beginning and to lock the doors. You can tell
+if a domestic worker’s eye is always wandering, always on the balcony, then that means she wants to run
+away.” A third interviewee advised clients that domestic workers can participate in ‘acceptable’ activities,
+such as visiting relatives or attending religions services, but only after the domestic worker has been in the
+country for a while.
+
+    Some recruiters also brief domestic workers on living and working conditions to expect in their new
+household. For instance, two Jordanian recruiters reported informing new arrivals about their national
+‘customs’ such as their habit of speaking loudly, and sometimes in ‘rough voices’. Similarly, a Lebanese
+recruiter explains to his recruits that when employers speak loudly, it does not always mean that they are
+‘yelling and mad’. A Jordanian respondent commented that he even informs his recruits that Jordanian
+employers have a ‘tradition’ of locking their doors to prevent domestic workers leaving the house without
+permission. This, he tells them, is normal practice in Jordan. A Lebanese respondent shared that he tells
+new arrivals that they should not try to leave the house alone and that if anyone wants to talk to her from
+the street when she is on the balcony, she should not talk to them.
+
+    Recruiters reported that employers do not tend to pay much attention to the standard employment
+contract they are required to co-sign with their domestic worker employee.38 A Jordanian interviewee
+explained: “only 40 per cent [of employers] read it. Those that don’t read it ask me questions about it.
+I don’t stress that they have to read it; sometimes I make a copy for them to take home. But not every
+employer takes a copy.” Lebanese respondents made similar remarks. One respondent even asserted that the
+contract was not actually binding on the employer if she/ he did not want it to be. On the other hand, only
+one recruiter reported informing employers about the contractual rights of domestic workers: “They have
+to have a minimum of nine consecutive hours of rest/sleep”, although “whether they stay awake and send
+SMS, it is their choice.”
+
+
+
+
+38
+     In Lebanon the employment relationship between a domestic worker and employer is governed by a Standard Unified Contract, In Jordan the
+     employment relationship is governed by the Special Working Contract for Non-Jordanian Domestic Workers.
+
+
+                                                                                                                                           23
+c. Profitability and business risks
+
+
+
+      i. Income and profits
+
+    Recruiters in Jordan and Lebanon generate income from the fees, which they charge to their clients
+per domestic worker. Clients do not pay up front but are charged a small deposit (maybe as small as
+$100) on ‘placing their order’. The full fee is only handed over to the recruiter on the arrival of their new
+employee. Recruiters’ profits accrue from the difference between the fee received from the client and the
+costs incurred during the recruitment process. As set out in Table 1 above, reported client fees range from
+$2,100 to $2,500 in Jordan and from $1,300 to $1,500 in Lebanon. Costs incurred by recruiters to manage
+the process include: i. the ’fixed costs’ associated with running a business in Jordan and in Lebanon (e.g.
+office rent, overheads such as electricity charges, broadband, the fees paid to the samsara/a); and ii. costs
+associated with recruiting each worker including, costs of processing immigration paperwork and the flight
+from Bangladesh to Amman or Beirut. In Jordan, recruiters include the paperwork costs in the total client
+fee; in Lebanon, the employers pay these costs separately, which accounts for the lower client fees paid to
+recruiters.
+
+    Recruiter profitability is directly related to the number of domestic workers they recruit and place per
+month or per year: the more they recruit, the more they make. Recruiters reported recruiting between 200
+and 600 migrant domestic workers per business per year in Jordan and between 80 and 200 in Lebanon.
+The lower numbers in Lebanon may be explained in part by legal restrictions placed by the Lebanese
+government from time-to-time prohibiting recruitment of more than 200 workers per year.39 One Lebanese
+recruiter calculated he could generate a monthly income of $3,000 to $5,000 by recruiting around 15 migrant
+domestic workers or $10,000 to $15,000 by recruiting 30.
+
+    Once all recruitment costs are taken care of, respondents in Jordan and Lebanon reported generating
+profits of between $200 and $500 ‘per domestic worker’. A Lebanese recruiter indicated that his annual
+profit could range anywhere between $100,000 and $200,000, depending on the state of the industry that
+year. A second described his commercial success in terms of enabling his family to live comfortably in
+Beirut, to travel often and for him to build two houses.
+
+    What recruiters in Jordan and Lebanon have to pay in recruitment costs influences the price charged to
+the clients (see Table 1). Two respondents - one Jordanian and one Lebanese - provided the researcher with
+examples of their direct (mostly fixed) recruitment costs (Table 4), which vary slightly from business to
+business.40 For example, according to the Syndicate Recruitment Agency Association in Jordan, recruiters
+pay $790 in total for processing the required immigration paperwork, which is usually included in the
+overall fee charged to employers as a direct cost that must be paid.
+
+     While the health insurance that employers are required to purchase for their domestic work employees
+is technically an additional cost, in practice many recruiters include insurance as a ‘freebie’ as a means of
+attracting clients.
+
+
+
+
+39
+   As virtually all respondents stated complying with this quota at exactly 200 recruits per year (i.e. none reported recruiting higher numbers), the
+   ‘real’ average seems likely to be more than 200. For instance, one PrEA representative asserted that ‘others’ recruit between 400 and 500 domestic
+   workers per year.
+40
+   See Forthcoming ILO study on Employers of Domestic Workers in Lebanon (expected publication date January 2016). This study highlights that
+   employers are very often not clear about what is included in their fee.
+
+
+ 24
+Table 4: Criteria for selection of origin country partners by Jordanian and Lebanese recruiters
+
+
+                       Jordan                                                  Lebanon
+        (costs included in the total client fee)               (costs not included in the total client fee)
+
+    Work permit: $628                                       Medical exam: $50
+    Medical exam: $48                                       Insurance: $100
+    Insurance: $90                                          Notary, employment contract: $90
+    Embassy contract: $34                                   General Security residence permit: $200
+    Sales tax: 16 % on every domestic worker                Procedures: $100 (stamps, advanced
+    recruited and placed                                    approval, embassy contract)
+    Entry tax: $28                                          Visa fees at the airport: $33
+
+*Source: recruiters interviewed in Jordan and Lebanon
+
+    What recruiters must pay to actually recruit domestic workers varies widely according to the country
+of origin. Principally, two main variables influence this – the cost of flights/transportation and the fees
+(“commissions”) charged by origin country recruitment agencies to ‘supply’ the worker.
+
+    Flight costs vary with the distance to be covered and the popularity of the route/number of carriers
+operating. Flights tend to be cheaper from Bangladesh to the Middle East than from some other Asian
+countries. Costs can become inflated when a recruitment moratorium or ban is in place in the origin
+country. Higher prices arise from women migrant workers travelling by longer and more circuitous routes,
+often involving the payment of bribes or “fees” to multiple officials to avoid airport and other border
+controls. Where flight costs increase dramatically, the fees that recruiters in Jordan and Lebanon charge to
+clients (employers) increases correspondingly. This, according to interviewees, significantly reduces client
+demand for a particular nationality. It is important to note that despite the fact that it is the responsibility
+of the employer to purchase the plane ticket and that this money is included in the employer fee charged
+by recruiters, in reality many Bangladeshi domestic workers finance their outbound flight cost. This is
+explained in section 3, The recruitment business model in Bangladesh.
+
+    Recruiters in Jordan and Lebanon must also pay commissions to their counterparts in Bangladesh per
+recruit they ‘deliver’ to them, with full amounts only paid upon the recruit’s arrival in the destination
+country. Interviewees reported commissions paid to Bangladeshi recruiters were high in comparison to
+other origin countries, amounting to $300 to $1,000 per worker, because they had to compete with recruiters
+in Saudi Arabia which recruits more domestic workers from Bangladesh. The commission usually, but not
+always, includes the cost of the flight paid by the employer, varying from business to business. The vast
+majority of interviewees from all three countries confirmed that commissions were usually at the lower end
+of this scale once the cost of flights had been deducted.
+
+    Jordanian and Lebanese recruiters noted, however, that there is little variation between the commissions
+charged by their Bangladesh partners, meaning that they can maintain relatively stable client fees. For
+instance, a Jordanian respondent reported that he and his rival recruiters tended to charge their employers
+very similar amounts when recruiting from Bangladesh, varying their fees by only 100 JD ($141) from
+business to business.
+
+   Unsurprisingly, given that this is not allowed by law, Jordan and Lebanon recruiters did not report
+generating income from charging recruitment fees to arriving domestic workers. Nevertheless, a small
+
+                                                                                                              25
+number of Bangladeshi recruiters indicated that if a domestic worker arrives with debt (for example if she is
+unable to pay the recruitment fee charged in the country of origin) she may ‘sell’ her debt to recruiters in the
+destination country via a ‘promissory note’. The debt is then reimbursed through the employer paying the
+first month(s) salary to the recruiter in Jordan and Lebanon rather than to the domestic worker. Respondents
+from all groups however (recruiters in all countries, sub-agents, and returned migrants) confirmed that in
+the case of Bangladeshi domestic workers, recruitment fees are usually settled before the woman leaves the
+country, although this does not stop their clients (employers) making salary deductions in order to recoup
+the fee that they have paid to their recruiter as noted above.
+
+    Recruiters in Jordan and Lebanon also generate income from hiring out domestic workers by the
+day, either in accordance with Regulation 12 of 2015 which allows this when recruiters are transferring
+sponsorship, but also irregularly beyond its scope. This practice was witnessed by the researcher many
+times. It was not clear if the women received any of the per diem rate paid by the recruiter client (who was
+not the employer in these cases) or if this was only paid to the recruiter.
+
+
+        ii. Recruitment and business risks
+
+    Recruiters have to manage a number of day-to-day risks to their business, which if they materialise,
+can lead to significant financial loss. They consequently have to devise risk management strategies,
+although some risks to businesses in Jordan and Lebanon are completely beyond their control. For instance,
+recruiters in Jordan and Lebanon do not usually know in advance when a moratorium (‘recruitment ban’)
+on domestic work recruitment is to be imposed by an origin country government. This most directly impacts
+their business if ‘job-orders’ have already been placed with their business partners, but also has an impact
+on their ability to generate new business. Overall, virtually all recruiters interviewed in Jordan and Lebanon
+reported a drop in business (as measured by the number of recruits) over the past two to three years.
+They attributed this in part to the deteriorating security situation as a result of the Syrian Crisis, as well
+as a growing preference by Bangladeshi women to work in other Middle East countries with better wage
+prospects or where the recruitment could be managed more quickly.
+
+    The most common and costly risk to recruiters’ businesses is what respondents referred to as ‘the
+running away problem’. Despite numerous documented cases about domestic workers running away from
+abusive employers, recruiters interviewed generally attributed this to domestic workers seeking better paid
+jobs elsewhere, including for ‘freelance’ work. Regardless of the rationale, this break in the employment
+relationship can lead to significant financial losses for recruiters, because of the ‘financial guarantee’, which
+recruiters in both Jordan and Lebanon are required, according to the law, to offer their clients to replace the
+worker at no extra cost to the employer.41 Recruiters in Jordan and Lebanon have a clear financial incentive
+to ensure that their clients are happy with the recruit during the period that they are legally liable, and that
+recruits do not leave.
+
+    Several recruiters interviewed in both Jordan and Lebanon reported that Bangladeshi women absconded
+from their employers more than other nationalities. They attributed this to Bangladeshi domestic workers
+being paid the least of all nationalities of domestic workers. They reasoned the low pay fosters a greater
+willingness to risk engaging in illegal freelance work, or, in the case of Jordan, to find a job in the apparel
+sector. According to one respondent in Lebanon: “There are mafias from over there [Bangladesh] that take
+a lot of money from the women, so when they come here, it is not financially feasible to work for $150 to
+$175, which incentivizes them to run away.”
+
+
+
+41
+     Jordan, Regulation No. 12 of 2015 (Articles 14A & 15C)
+
+
+ 26
+One Jordanian recruiter estimated that he loses up to 10 per cent of his Bangladeshi domestic worker recruits
+to job opportunities in the apparel factories where, with overtime, the pay is higher than in domestic work.
+Similarly, a Lebanese recruiter estimated that he replaces approximately 20 per cent of women recruited
+because they have run away from their employers (his clients). Another shared that in 2013, out of 86
+domestic workers he had recruited, he was obliged to replace three who ran away and 25 who did not get
+along with the client or someone else in the household. This represented almost a quarter of his annual
+business and therefore a significant financial loss.
+
+    Recruiter respondents do not consider the government authorities as being on their side in the case of
+‘runaways’. Although recruiters are not in theory legally financially liable in cases where the employer has
+exploited or abused the worker, interviewees reported that this is very difficult to prove in practice, and that
+they end up having to refund the employer or replace the domestic worker regardless. Respondents in both
+Jordan and Lebanon complained that employers tend to threaten them in order to make them pay, and if they
+refuse the employer can file a complaint at the Ministry of Labour, which will prevent them from being able
+to process future domestic work visas. In cases where a domestic worker is being exploited or abused by her
+employer, the financial implications are likely to hamper the recruiter’s willingness to assist the worker or
+report the situation to the authorities, even if they were so inclined to do so.
+
+Recruiters in Jordan and Lebanon implement several strategies to manage the risk of a domestic worker
+leaving or being unable to complete her contract. Principally, they ‘outsource’ this risk to their Bangladeshi
+partners, commonly requiring them to pay the cost of recruiting a replacement domestic worker, refunding
+client fees and potentially purchasing a return ticket for the original recruit, if anything occurs during the
+period when the employer is legally entitled to a replacement domestic worker in the defined circumstances. A
+Jordanian respondent explained: “We have a verbal deal/ agreement with our Bangladesh agency which is not
+legally binding. They give me a three month guarantee.” Because this is not enforceable (unlike in Jordan and
+Lebanon), a Lebanese respondent asserted: “We have to put our foot down when these matters happen, so that
+they don’t take us for granted.”42 Honouring these verbal agreements is consequently viewed as a critical part
+of the business relationship. As one Jordanian interviewee stated, what makes a ‘good’ partner is that: “He [the
+Bangladesh recruiter] would have no trouble reimbursing me if there is a problem with a domestic worker.”
+
+    In such reimbursement cases, Jordan and Lebanon recruiters recoup money from their Bangladeshi
+partners in instalments of approximately 100 JD ($140) rather than as a one-off payment. This is deducted
+from each future commission payable to them (the Bangladesh recruiter) for new recruits. Reimbursements
+are organised this way because recruiters in Jordan and Lebanon recognise that recruiters in Bangladesh
+usually lack sufficient cash flow to make full refunds in one instalment. It also keeps Bangladesh recruiters
+‘hooked into’ the business relationship, usually creating a complex balance of payments between the
+business partners. One Jordanian recruiter admitted threatening to report any recruiters that do not reimburse
+them to the Bangladesh embassy. This, he argued, tends to be an effective strategy because Bangladeshi
+recruiters depend on their embassies to stamp visas and contracts for their business in the future and the
+embassy will not execute these tasks if there are outstanding complaints. In other words, while there is no
+legal requirement for Bangladesh recruiters to give destination country partners a financial guarantee for
+the first three months, at least some of the negotiating power lies with the latter. Similar risks accrue from
+what interviewees referred to as new recruits ‘refusing to work’ or not working to their new employers’
+satisfaction.
+
+   In order to minimise their financial risks, recruiters deploy a variety of tactics to prevent their recruits
+from absconding or ‘refusing to work’ and to conform to the employer’s wishes. These tactics build on the
+advice labour recruiters offer to employers on how to manage the employment relationship. One recruiter
+
+
+
+
+                                                                                                            27
+admitted “If there is a problem, I have the agency in the origin country speak to her to scare her, tell her
+she has to pay $2,000 if she wants to go home. It is true it is harsh, but it works.” Some interviewees even
+admitted to ‘retraining’ domestic workers in their own homes or in dormitories retained especially for
+this purpose. A Lebanese interviewee explained how she had ‘kept’ three domestic workers in her office
+at one time “for about a week, so that they can readjust their attitude so they can go back to work. I try to
+understand from them what the problem is. If the domestic worker has the right, then I talk to the employer.
+If the employer has the right, I yell at the domestic worker and tell her that I will keep them in the office
+until they change their attitude. I give them some food like potatoes, rice and eggs. Eventually they will get
+bored and want to work again.”
+
+    In June 2014, in an industry-wide attempt to limit the financial liability of individual recruiters in cases
+of domestic work recruitment, the Jordanian Syndicate, in partnership with the Jordanian government,
+established a new mandatory insurance system underwritten by insurance companies. Clients are now
+required to pay an annual subscription of $183, which covers their employees for work-related accidents,
+third class full medical insurance and life insurance. Where domestic workers leave their employment,
+clients are also able to claim back the fees, which they paid to the recruiter as well as the cost of recruiting
+a replacement worker.42 Given that this requirement is relatively new, its impact on the ability of domestic
+workers to freely leave their place of employment is not yet known.43
+
+
+
+
+42
+     Regulation 12 2015
+43
+     This regulation adds another layer of private sector actors into the equation that have a financial rationale to prevent migrant domestic workers
+     from leaving their employment. In other words, the more migrant domestic workers leave their employment, the more it will financially hurt the
+     insurance companies involved in the scheme. This may lead to additional risks for domestic workers.
+
+
+ 28
+4. The recruitment business model in Bangladesh
+
+
+    A total of 20 recruitment agency representatives and 30 dalals were interviewed in Bangladesh about
+their business models. Recruiters in Bangladesh are subcontractors to recruiters in Jordan and Lebanon;
+they consider the recruiters in Jordan and Lebanon to be their clients rather than the end employer.
+Recruiters in Bangladesh have virtually no contact with the end employer, or in some cases even the
+domestic worker. Their subcontracting status is at the core of their business model. However, recruiters
+included in the research do not solely recruit women; according to interviewees, male recruitment is in
+fact a far larger and more profitable part of their businesses. Similar to recruiters in Jordan and Lebanon,
+recruiters in Bangladesh are largely micro-enterprises, employing between five and seven workers.
+Multinational recruitment agencies, although present in Bangladesh, do not engage in international
+recruitment.
+
+    As with Jordan and Lebanon recruiters, Bangladesh recruiters must devise competitive strategies
+in order to generate profitability. First, recruiters advertise their businesses through the Bangladesh
+embassies, which provide their contact details to recruiters in Jordan and Lebanon. They may also pay
+individuals – either based in Jordan and Lebanon or who visit periodically - to find new ‘job orders’
+for them through visiting recruiters in these countries, offering new domestic worker candidates from
+Bangladesh.
+
+    Secondly, much like recruiters in Jordan and Lebanon, the success of a Bangladeshi recruitment
+business depends on its ability to generate a constant supply of recruits. This is because for the competitive
+strategies of recruiters in Jordan and Lebanon to be successful, they must have a sufficient volume of
+domestic work candidates available to offer their clients. As one Bangladesh recruiter explained: “We
+have to send bio-data forms in advance so that overseas recruiting agencies can have many forms in
+hand.”
+
+    Thirdly, mobilising sufficient women for domestic work positions is challenging for the Dhaka-based
+recruiters, as many women migrate from the districts of Barisal, Khulna, Faridpur and from remote
+villages. Recruiters are consequently reliant on vast networks of sub-agents across Bangladesh who
+locate and mobilise recruits for them, often retaining several in order to meet their clients’ demand.
+Despite this, Bangladesh law explicitly prohibits the use of sub-agents, requiring recruiters to publish
+job opportunities in the press.44 However, no recruiter interviewed reported advertising for domestic
+workers. Instead, a Dhaka-based respondent explained: “We receive the names of potential migrants by
+sub-agents. We contact around 30 sub-agents [who] regularly come into our office to get the news about
+[the] need for potential migrants. We do not publish advertisements.”
+
+    According to interviewees, the recruiters’ reliance on sub-agents results from the low literacy rates
+of Bangladeshi women who tend to migrate and the lack of Internet access in rural areas. Recruiter
+respondents also reported that women migrant workers (as opposed to men) prefer to migrate with
+a sub-agent rather than a recruitment agency, based far away from their home. Interestingly, female
+interviewees who had returned from working in Jordan and Lebanon indicated that trust was not the major
+issue for them. Instead, they felt there had been no other option than to migrate with a sub-agent, being
+largely unaware where recruitment agencies were physically located. Cultural norms in Bangladesh, they
+argued, largely preclude women from travelling alone to Dhaka to visit recruitment offices, even if they
+had known where to locate them.
+
+
+
+
+44
+     This conclusion is supported through a reading of several provisions in the Bangladesh Overseas Employment and Migrants Act 2013 (S. 2 (15);
+     S.19(3) and S. 32)
+
+
+                                                                                                                                             29
+     Recruitment tasks are divided between recruiters and the sub-agents in Bangladesh. Recruiters process the
+ required emigration paperwork with the relevant government Ministry and sub-agents ‘prepare’ the women
+ for migration. Preparation includes assisting women in applying for passports, arranging and accompanying
+ women to medical screening, and arranging the required pre-departure training. A Bangladeshi sub-agent
+ noted: “She [the domestic worker] has to do all this with my help – I know where to go, the related staff and
+ what to do in case any problem arise with the medical and training.” Figure 2 depicts the division of labour
+ between recruiters in Dhaka and their sub-agents.
+
+
+
+
+                                           PARTNER WITH RECRUITERS
+                                             IN JORDAN & LEBANON
+
+
+
+
+MANAGE CLIENT (EMPLOYER) RELATIONSHIPS                                                      PROCESS REQUIRED EMIGRATION PAPERWORK
+ WITH JORDAN AND LEBANON RECRUITERS
+
+
+
+
+                                           BANGLADESH RECRUITERS
+
+
+
+
+                                           BANGLADESH SUB-AGENTS
+
+                                          (Lead sub-agents in Dhaka and multiple
+                                         networks of sub-agents across Bangladesh)
+
+
+
+
+                                                                                                                          PASSPORT
+
+
+
+
+       LOCATE AND MOBILIZE WOMEN                                                                  PREPARE WOMEN FOR MIGRATION
+       FOR OVERSEAS DOMESTIC
+       WORK EMPLOYMENT                                                                 including applying for passport, collating documents such
+                                                                                      as no-objection certificate from male family member, arrange
+                                                                                     and facilitate pre-departure training (including accommodation
+                                                                                          if in Dhaka), arrange and facilitate medical screening
+
+
+
+ Figure 2: Division of labour – the role of recruiters and sub-agents in Bangladesh.
+
+
+  30
+    Sub-agents allow recruiters to generate a sufficient number and flow of recruits for their counterparts in
+the destination countries. ‘Lead’ sub-agents are often based in Dhaka so they are able to communicate face-
+to-face with the recruiters, as well as with others located in the regions from which women tend to migrate
+the most. Relationships between sub-agents and recruiters in Dhaka are strictly on a freelance ‘cash-in-
+hand’ basis. Sub-agents reported working regularly with three to five recruiters, maintaining contact by
+mobile phone and visiting their offices on a regular basis to ‘drop passports’, which is how they described
+taking ‘applications’ (completed bio-data forms) to recruitment offices. Sub-agents interviewed for the
+study each recruited between ten and 30 men and women every year, depending on whether recruitment was
+a full time business or an occasional activity.
+
+    Sub-agents do not usually physically introduce recruits to the recruiters. Very often migrant domestic
+workers leave Bangladesh not even knowing the name of the recruiter who has processed their recruitment
+and employment. Recruiters generally do not conduct interviews for domestic work positions, relying on
+their sub-agents to find suitable applicants. The only criteria sub-agents use, according to our respondents,
+are whether a woman meets the age requirements and her physical fitness, ability to pass the medical test
+and her marital status. Fairly typically, one recruiter respondent stated “Physical fitness: that is ability to
+do household chores is the important area to be considered” when determining whether or not to forward a
+woman’s details to his destination country partner. In practice, sub-agents usually make this decision.
+
+
+a. Income and profit
+
+    The income of recruiters in Bangladesh comes from two sources – first, fees charged to new recruits
+and second, the commission paid by their business partners in Jordan and Lebanon. As with their Jordan
+and Lebanon partners, their profitability is directly proportional to the number of recruits they succeed in
+identifying and passing on to their clients in destination countries. Legally, recruiters in Bangladesh can
+charge women migrant workers a maximum of 20,000 BDT ($260) but recruiter interviewees reported
+charging fees of 60,000 to 80,000 BDT ($770 to $1,030). Recruiters in Bangladesh also receive commissions
+from their Jordanian and Lebanese partners of approximately $300 per recruit, providing a total income of
+approximately $1,000.
+
+    As with their destination country partners, recruiters’ profit accrues from the difference between their
+income (approximately $1,000) and their outgoing business costs. These include: i. the ’fixed costs’ associated
+with running a business in Dhaka (e.g. office rent, overheads such as electricity charges, internet); ii. the
+costs associated with recruiting (e.g. fees to sub-agents, processing visa paperwork with the Bangladeshi
+authorities, and outbound flights for the recruits.
+
+    Recruiters in Dhaka do not pay a regular wage to their sub-agents, paying instead a commission of around
+10,000 to 20,000 BDT ($130 to $260) per recruit, variable between businesses and what the recruiters can
+negotiate. It is also dependent on the balance of payments referred to above. In other words, this would
+apply if the recruiter in Dhaka ‘owes’ their business partner in Jordan or Lebanon a ‘reimbursement’ for a
+prior recruit who has run away from her employer, is pregnant, failed to arrive, did not pass her medical test
+on arrival, or because the employer was not satisfied with her.
+
+    Recruiters do not charge fees to women directly. Women pay their sub-agent who then passes this to
+the recruiter minus his/her commission, referred to interviewees as a ‘tip’. Women interviewed for this
+study had paid their sub-agents a ‘tip’ of between 2,500 and 5,000 BDT ($32 to $64). The total fees which
+sub-agents charge to women on behalf of the recruiters in Dhaka vary between sub-agents. One noted that
+his fee varies depending on her capacity to pay, charging more to those who have access to more money.
+Sub-agents seek the remainder of the total fee in two or even three instalments rather than as a lump sum,
+
+                                                                                                            31
+which, according to sub-agents interviewed for this study, makes it easier for women to raise the money.
+The first instalment directly covers the ‘actual’ costs of applying for a passport and other documentation
+required for emigration (e.g. medical screening certificate, pre-departure training). Sub-agents and recruiter
+channel this money to each of the different institutions, arranging for women to be ‘prepared’ for departure.
+It is also likely that sub-agents and other institutions take ‘cuts’ from the ‘actual’ costs, which inflates the
+total fee charged to women. The second (and sometimes third) instalment is handed directly to the recruiter
+by the sub-agent to cover the costs of processing visas and associated emigration paperwork as well as the
+outbound flight.
+
+    According to the terms of the standard employment contracts that are required in Jordan and Lebanon
+(and 2012 agreement between Bangladesh and Jordan), employers in these countries are required to pay
+the full costs of domestic worker recruitment. However, the international recruitment business model is not
+this straightforward. Neither employers (Jordan and Lebanon clients) nor recruiters in those countries pay
+their fees or commissions up-front. This leaves a cash-flow issue, as in practice no money will be forwarded
+for the recruitment of the domestic worker until she lands in the destination country. This means that her
+recruitment fee is used to facilitate her migration while the employer fees largely disappear into recruiter
+(and other migration business) profits. Thus, migrant domestic workers bear the entire cost of their own
+migration. As one sub-agent put it: “For all service – passport, medical, training, travel etc.—worker has to
+pay and also the agency charges them migration fees.”
+
+     In order to finance their migration, women commonly borrow money from male relatives or sell family
+assets such as jewellery or land. Although Bangladesh has established a specialised bank for migrant
+workers – the “Probashi Kollayan Bank” - the process of securing a loan was reported by one interviewee to
+be cumbersome and difficult. None of the women interviewed in Bangladesh (returnees from employment
+as domestic workers in Jordan and Lebanon) had used the bank, nor had any profited significantly from her
+migration. Several had their wages of between $100 to $150 per month confiscated or withheld by their
+employers. Many were seeking to migrate again, most likely because they had not profited sufficiently or at
+all from the previous experience. A model of the fees and profits generated by this whole recruitment and
+employment process are detailed in Figure 3 on pages 34-35.
+
+
+
+
+ 32
+b. Business risks
+
+
+
+    Similar to their business partners in Jordan and Lebanon, Bangladeshi recruiters face a number of
+business risks that can lead to significant financial loss. Unsurprisingly, the most risky of these results from
+the three-month financial guarantee, which they must make to their recruiter clients in destination countries,
+as outlined above. One interviewee claimed to have suffered losses of 900,000 BDT ($11,570) the previous
+month, due to nine domestic workers returning from Jordan because of pregnancy or sickness. In order
+to mitigate this risk, one Bangladeshi recruiter said he requires his women migrant workers to sign an
+agreement to indemnify the recruiter against loss of this kind. It reads:
+
+      “After my arrival in Lebanon, if it is found that I am medically unfit or physically sick then
+      the cost of my returning back to Bangladesh shall be upon me. [….] In my work place abroad
+      I shall not do anything prohibited by the law of that country nor do anything which give rise
+      to unexpected incident. If I desire to return back to my own country voluntarily then I shall be
+      bound to pay 2,000 USD for air-fare and miscellaneous cost to [NAME OF AGENCY] and my
+      guardian or heirs shall not object to this.”
+
+     In no cases do recruiters return the recruitment fee to their recruits. As one recruiter explained: “When
+any worker resigns from any job, we ensure their return to the home country. We do not return the commission
+to the returnee workers. What we do under such circumstances is we recruit and send another worker in her
+place as part of the compensation package programme.”
+
+    Bangladesh recruiters also risk having a potential worker change her mind prior to her departure, a risk
+which accrues in part from the length of time between recruitment and when the woman finally boards the
+plane. To discourage this practice or to prevent women from switching to another recruiter, who may make
+her a better offer, they commonly retain the migrants’ passports until departure. Passports (and employment
+contracts where these are signed) are handed over to the women only three to four days before they depart
+or even at the airport, consequently leaving them little opportunity to change their plans.
+
+
+
+
+                                                                                                            33
+                                              BANGLADESH
+
+
+
+
+                                             APPROXIMATE PROFIT                 APPROXIMATE PROFIT
+
+                                       100-200 US$ PER WOMAN RECRUITED 100-400 US$ PER WOMAN RECRUITED
+
+
+
+
+       MIGRANT WOMAN                          SUB-AGENT (DALALS)                    RECRUITERS (DHAKA)
+
+
+
+
+     APPROXIMATE FEE PAID                   APPROXIMATE FEE PAID                APPROXIMATE FEE PAID
+
+            700-1,000 US$                     SUB-AGENT HANDS OVER                    400-1,000 US$
+                                            APPROXIMATELY 2/3 WOMEN’S      FOR VISA AND EMIGRATION PROCESSING
+                                            FEE TO RECRUITERS IN DHAKA
+
+
+
+
+                                                                          MIGRANT WOMAN’S
+                                                                         APPROXIMATE PROFIT
+Figure 3: Model of the profits and fees generated
+         by the labour recruitment process
+
+       34
+                           JORDAN - LEBANON
+
+
+
+
+       APPROXIMATE PROFIT                                                       APPROXIMATE SALARY
+
+            300-500 US$                                                         100-250 US$ PER MONTH
+        PER WOMAN RECRUITED
+
+
+
+
+ RECRUITERS (AMMAN + BEIRUT)                          EMPLOYER                    MIGRANT WOMAN
+
+
+
+
+   APPROXIMATE FEE PAID                      APPROXIMATE FEE PAID            EMPLOYER MAY RECOUP FEE
+
+         650-2,000 US$                     1,000-2,300 US$ TO RECRUITERS     Through deducting the domestic
+  FOR IMMIGRATION PROCESSING                                                  worker’s salary for 1-3 months
+AND FEES TO RECRUITERS IN DHAKA
+
+
+
+
+                    2,600 US$
+IF SHE PAYS 1,000 US$ IN FEES AND IS PAID 150 USD PER MONTH,
+                                                                                        = EARNS 50 US$
+                                                                    LEGEND
+SHE WILL MAKE 2,600 US$ OVER A TWO YEAR CONTRACT ONCE THE
+RECRUITMENT FEE IS ACCOUNTED FOR AND IF EMPLOYER DOES                                   = PAYS 50 US$
+NOT MAKE ANY FURTHER DEDUCTIONS.
+
+
+                                                                                                     35
+5. Conclusion
+
+
+    The private recruitment industries and business models in Bangladesh, Jordan and Lebanon which have
+been explored by this research are firmly intertwined with the rapid and continued growth in the hiring of
+migrant domestic workers in the Middle East. Immigration regulations have influenced the development of
+the industry which has flourished due to legal obstacles and practical challenges which prevent employers
+from directly recruiting migrant domestic workers. Immigration regulations in Jordan and Lebanon,
+including the sponsorship system (kafala), effectively prohibit workers from entering the country without
+a sponsoring employer and may further prevent them from seeking alternative employment once inside
+the country. Thus both parties require the assistance of private recruiters to help them navigate through the
+complex system of regulations, authorisations and paperwork necessary for cross-border labour migration.
+
+    How this recruitment process operates is beyond the oversight and often the knowledge of the employer
+and certainly of the domestic worker. In exchange for a fee paid by the client employer, destination country
+recruitment agencies provide an ‘end-to-end service’, with minimal involvement of the prospective
+employer beyond an initial selection of the recruit based on bio-data forms and photos. On the other end of
+the network, women domestic workers (the poorest parties to the process) also pay a myriad of costs and
+fees associated with the recruitment process in the Bangladesh. The recruitment fees charged to workers
+are indicative of the financial ‘premium’ rural households attach to the opportunity to earn an income
+outside Bangladesh, which is tapped into by recruiters and sub-agents with financial incentives to increase
+revenues and to offer lower recruitment commissions on workers they provide to their partners in Jordan
+and Lebanon.
+
+    Despite the fact that the prospective migrant woman pays out what is, for her, an extraordinary sum of
+money to finance her migration, none of the actors in the recruitment process regards her as their ‘client’ or
+perceives their role as to represent or protect her interests. The worker may never even meet their official
+recruiter in Bangladesh, as recruiters rely heavily on networks of sub-agents to identify and prepare migrant
+workers for deployment. They may be sent abroad with little to no knowledge of who all of the sub-
+agents and recruiters are who facilitated their migration and charged them fees, where they are being sent
+or who their employer will be. Once in Lebanon or Jordan, under the Kafala system workers are tied to
+their employer, and the financial incentives for employers and recruiters to maximise worker retention
+often outweighs any interest in the worker’s wellbeing. Domestic workers lack labour law protections
+and become part of a highly dispersed and largely invisible workforce. They also face significant obstacles
+to complaining about abusive recruitment practices or to organise themselves to demand improvements.
+Women are, in the absence of explicit and targeted support from external sources such as NGOs or trade
+unions, essentially without ‘agency’ in this recruitment process.
+
+     It is critical that recruiters operate in a manner that protects the human rights of workers and upholds
+international labour standards. In light of the risks that have been highlighted in these three countries,
+recruitment industries and businesses operating between South Asia and the Middle East should regularly
+examine, collectively and critically, the human rights impact of their business models. Equally, it is important
+to emphasize the roles and responsibilities of other key actors, including governments who set the industry’s
+regulatory landscape and employers who shape demand for migrant domestic workers. In an industry which
+is responsive to regulations and employer demands, concrete action must be taken by all parties in order to
+promote business models that empower and protect the rights of workers.
+
+
+
+
+ 36
+6. Bibliography
+
+
+ILO Conventions
+
+   Domestic Workers Convention, 2011 (No. 189).
+
+
+Articles, books and reports
+
+   Allain, J. et al. 2013. Forced labour’s business models and supply chains, (Joseph Rowntree Foundation,
+       London).
+
+   Anderson, B. 2000. Doing the Dirty Work? The global politics of domestic labour (London, Zed Books).
+
+   Bureau of Manpower, Employment and Training of Bangladesh (BMET). 2015. Statistics. Available at:
+       http://www.bmet.gov.bd/BMET/stattisticalDataAction [15 June 2015].
+
+   Frantz, E. 2013. “Jordan’s unfree workforce: state-sponsored bonded labour in the Arab Region” in The
+       Journal of Development Studies, Vol. 49, Issue 8, April, pp. 1072-1087.
+
+   Gammeltoft-Hansen, T.; Sorensen, N.N. 2012. Introduction. The Migration Industry and the
+      Commercialisation of International Migration (Routledge London).
+
+   Hamill, K.: “Trafficking of Migrant Domestic Workers in Lebanon. A Legal Analysis. (Beirut, KAFA, 2011)
+
+   Harroff-Tavel, H.; Nasri, A. 2013. Tricked and trapped: Human trafficking in the Middle East, (Beirut,
+   ILO, 2013)
+
+   International Labour Organisation (ILO). 2004. Towards a fair deal for migrant workers within the
+        global economy, Report IV, 92nd International Labour Conference, Geneva, 2004.
+
+   -. 2013. Domestic workers across the world: Global and regional statistics and the extent of legal
+        protection. ILO Conditions of Work and Employment Branch (Geneva). Available at:
+        http://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/
+        wcms_173363.pdf [15 June 2015]
+
+   -. 2014. Forced labour (supplementary measures: Recommendation (No. 203), Section 8 (Geneva).
+
+   -. 2015. Fair Recruitment Initiative. Available at: http://www.ilo.org/wcmsp5/groups/public/---ed_
+        norm/---declaration/documents/publication/wcms_320405.pdf [15 June 2015].
+
+   -. Forthcoming. Study on Employers of Domestic Workers in Lebanon (Geneva).
+
+   -. [n.d.]. Countries covered: Lebanon. Available at: http://www.ilo.org/beirut/countries/lebanon/lang--
+        en/index.htm [15 June 2015].
+
+   -.; Global Alliance Against Trafficking in Women. Forthcoming. Effects of the Age Ban in Nepal
+        (Geneva).
+
+   Jordan Times. 2012. Jordan, Bangladesh agree on domestic help recruitment, 27 Apr. Available at:
+       http://www.jordantimes.com/news/local/jordan-bangladesh-agree-domestic-help-recruitment
+       [15 June 2015].
+
+                                                                                                        37
+     Juredini, Ray. 2003. “The failure of state protection: Household guest workers in Lebanon” in European
+         Review of International Migration, Vol 19; 3, pp. 95-127.
+
+     Ministry of Labour of Jordan. 2015. Statistics. Available at: http://www.dos.gov.jo/dos_home_e/main/
+        [15 June 2015].
+
+     Organization for Security and Co-operation in Europe (OSCE); United Nations Global Initiative to
+        Fight Human Trafficking (UN.GIFT). 2010. Analysing the business model of trafficking in human
+        beings to better prevent the crime: Joint report (Vienna).
+
+     Pande, A. 2013. “The Paper you have in your hand is my freedom: Migrant domestic work and the
+        sponsorship (kafala) system in Lebanon” in International Migration Review, Vol. 47, Issue 2, June,
+        pp. 414-441.
+
+
+National Legislation
+
+     Bangladesh
+
+     Gazette Notification No. Prokaboikomo- 5/ a-2/ 2005/1628 Concerning the Migration of Women, 2005.
+     Overseas Employment and Migrants Act, 2013.
+
+     Jordan
+
+     Regulation No. 12 of 2015 The Regulation of Organising the Private Offices of Recruiting Non-
+        Jordanian House Workers (it replaces Regulation No. 89 of 2009, 2015.
+
+     Lebanon
+
+     Ordinance No. 1/1 of 2011.
+
+     Regulation 90 of 2009 of Domestic Workers, Cooks, Gardeners and Similar Categories. Official Gazette
+        2009-10-01. No 4989. P5348, 2009.
+
+
+
+
+38
+Appendix 1
+
+
+Ratification Table
+
+
+                Standard                    Bangladesh   Jordan   Lebanon
+
+ Migration for Employment Convention
+ (Revised), 1947 (No. 97)
+
+
+ Migration Workers (Supplementary
+ Provisions) Convention, 1975 (No. 143)
+
+
+ Private Employment Agencies
+ Convention, 1997 (No.181)
+
+
+ Domestic Workers Convention, 2011
+ (No.189)
+
+
+ Protocol of 2014 to the Forced Labour
+ Convention, 1930
+
+
+ Forced Labour Convention, 1930 (No. 29)
+
+
+
+ Abolition of Forced Labour Convention,
+ 1957 (No. 105)
+
+
+ Protocol to Prevent, Suppress and Punish
+ Trafficking in Persons Especially Women
+ and Children
+
+
+
+
+                                                                            39
+Appendix 2
+
+
+Study Methodology
+
+    As the intent of this study was to explore and collect rich data on recruitment business models, the
+research utilised a qualitative methodology. An international research team conducted qualitative fieldwork
+in both origin (Bangladesh) and destination countries (Jordan and Lebanon); a framework that is commonly
+referred to as a ‘corridor study’.45 Taking a ‘corridor’ approach is especially vital in understanding the
+international recruitment business. To study recruitment activities in only one national labour market is to
+miss potentially crucial pieces of information about why and how they do what they do.
+
+    Researchers based in the study countries conducted semi-structured interviews with recruiter
+representatives, sub-agents, trade union officials, government officials, civil society representatives and
+human rights defenders in Bangladesh, Jordan and Lebanon. Returned women migrant domestic workers
+were interviewed in Bangladesh. Interviews took place between December 2013 and July 2014. In total,
+researchers conducted 141 interviews in the participants’ own language, according to a standardised
+interview schedule, each lasting between 40 minutes and 3 hours.
+
+
+
+
+           Interviews                   Bangladesh                     Jordan                     Lebanon                       Totals
+
+     Key informants                            15                          12                          10                          37
+
+     PrEA                                      20                          18                          21                          59
+     representatives
+
+     Sub-agents                                30                                                                                  30
+
+     Returned women                            15                                                                                  15
+     migrant workers
+
+     Totals                                    80                          30                          31                        141
+
+
+
+
+    Recruiter and sub-agent interviewees were identified using ‘snowballing’ techniques, with recruitment
+industry associations providing initial contacts. Respondents were asked to provide details of at least one
+further respondent. Key informant interviewees were also asked for potential recruiter and sub-agent
+contacts. Interviewees were purposively sampled for engagement in the domestic work recruitment sector
+and recruiting from Bangladesh (for Jordan and Lebanon respondents), or recruiting into Jordan and / or
+Lebanon (for Bangladesh respondents). Returned women migrant workers were identified through civil
+society organisations in Bangladesh and were identified on the basis of having been employed as domestic
+workers in Jordan or Lebanon.
+
+    A number of measures contributed to validation of the data. Interview data gleaned from the recruiter
+and sub-agent respondents was validated with key informant interview data. Findings from the Bangladesh
+recruiters were also cross-checked with that from the Jordan and Lebanon recruiters. Analysis of interviews
+
+
+45
+     Team members also conducted research in India and Nepal. As recruiter respondents did not identify recruiting domestic workers into either
+     Jordan or Lebanon due to government-initiated moratoriums, findings from these interviews are not included in this summary.
+
+
+     40
+with respondents based thousands of miles apart who were unlikely to have ever met revealed some important
+consistencies. Analysis of business materials, official and governmental documentary and statistics material,
+NGO reports, and academic literature also contributed to validation of the data. Moreover, researchers were
+selected for their ability to build empathy with respondents and comment on the veracity of findings based
+on their experience and knowledge.
+
+    As is the norm in qualitative research, interviewees were offered anonymity so that they felt able to
+freely speak and to share their experiences. In interviews where researchers had doubts about what the
+respondents were telling them, they were advised to ask their interviewees about what other recruiters did,
+a known technique for encouraging business interviewees to share more information.
+
+    Conducting research in each country had its own particular challenges. Lebanon is experiencing a
+deteriorating security situation due to the war in Syria and the resulting entry of a large number of refugees.
+An early decision was taken therefore that interviews could only feasibly and safely be conducted in Beirut.
+A key interviewee confirmed that recruiters are concentrated in Beirut, with only a small number dispersed
+throughout the rest of the country, meaning that in effect, there would likely be few methodological problems
+with conducting interviews only in the city. Interviews were conducted in the following neighbourhoods:
+Zouk Mousbeh, Ayn Remanieh, Badaro, Ashrafiyeh, Hamra, Jbail, Ramlit el Bayda, Kornish El Mazraa,
+Baabda, Jounieh, Rouwchi, and Hazmieh. This meant that interviews were conducted with respondents
+based in predominantly Christian areas, as well as those in predominantly Muslim areas.
+
+    In Jordan, interviews were only conducted in Amman, due to restrictions on time available for fieldwork
+in that country. As with Lebanon, key informants did not identify any particular differences between
+recruiters in Amman and in other cities and regions in Jordan.46
+
+    In Bangladesh, all the licensed recruiters permitted to recruit women for overseas employment are
+situated in Dhaka City, especially in the Paltan, Motijheel, Banani and Gulshan areas. According to the field
+researcher, some have recently started to open recruitment agencies in the district towns, but they are few
+in number and not particularly different or special. Sub-agents from Brahmanbaria, Faridpur, Barisal, and
+Tangail districts were also interviewed in Dhaka when they came there for business.
+
+
+
+
+46
+     The only particular difference between Amman and other areas of Jordan identified by respondents was that of Aqaba, which is located in a special
+     economic zone. PrEAs in this zone can operate under different rules and regulations for PrEAs, and as such could be the subject of a separate study.
+
+
+                                                                                                                                                    41
+

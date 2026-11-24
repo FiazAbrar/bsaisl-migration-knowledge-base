@@ -1,0 +1,505 @@
+- ✖
+
+- Mon 23 Nov 2026
+
+- [Homepage](https://www.general-security.gov.lb/en)
+
+- [Applications](https://www.general-security.gov.lb/en/operations)
+
+- About GS
+  - [Functions of the general security](https://www.general-security.gov.lb/en/posts/3)
+    - [](https://www.general-security.gov.lb/en/posts/260)
+    - [](https://www.general-security.gov.lb/en/posts/262)
+    - [Code of Conduct](https://www.general-security.gov.lb/en/posts/261)
+  - [Historical overview](https://www.general-security.gov.lb/en/posts/2)
+  - [](https://www.general-security.gov.lb/en/posts/267)
+    - [](https://www.general-security.gov.lb/en/posts/270)
+    - [](https://www.general-security.gov.lb/en/posts/272)
+    - [](https://www.general-security.gov.lb/en/posts/273)
+    - [](https://www.general-security.gov.lb/en/posts/271)
+    - [](https://www.general-security.gov.lb/en/posts/269)
+  - [Electronic services](https://www.general-security.gov.lb/en/posts/162)
+    - [](https://www.general-security.gov.lb/en/posts/367)
+    - [](https://www.general-security.gov.lb/en/posts/265)
+    - [Smartphone services](https://www.general-security.gov.lb/en/posts/180)
+    - [E-services](https://www.general-security.gov.lb/en/posts/163)
+    - [Official X platform](https://www.general-security.gov.lb/en/posts/164)
+  - [Office hours](https://www.general-security.gov.lb/en/posts/178)
+  - [Contact Us](https://www.general-security.gov.lb/en/posts/138)
+    - [1717](https://www.general-security.gov.lb/en/posts/141)
+    - [A survey](https://www.general-security.gov.lb/en/posts/140)
+  - [](https://www.general-security.gov.lb/en/posts/317)
+  - [General Directors](https://www.general-security.gov.lb/en/about/directors)
+  - [Military Ranks](https://www.general-security.gov.lb/en/about/ranks)
+  - [GS Chants](https://www.general-security.gov.lb/en/about/chants)
+
+- Residency in Lebanon
+  - [Residence Types](https://www.general-security.gov.lb/en/posts/556)
+    - [Permanent residence](https://www.general-security.gov.lb/en/posts/5)
+    - [Annual Residence](https://www.general-security.gov.lb/en/posts/241)
+    - [Courtesy Residence](https://www.general-security.gov.lb/en/posts/6)
+    - [Residence Permit Application Fees](https://www.general-security.gov.lb/en/posts/169)
+  - [Clearance Certificate for Violators of Work Visas and Residence Permits upon Departure](https://www.general-security.gov.lb/en/posts/431)
+  - [Domestic workers](https://www.general-security.gov.lb/en/posts/183)
+    - [The documents required to obtain a domestic worker](https://www.general-security.gov.lb/en/posts/23)
+    - [Application for a domestic worker entry visa](https://www.general-security.gov.lb/en/posts/171)
+    - [Fees for hiring a domestic worker](https://www.general-security.gov.lb/en/posts/168)
+  - [Sponsorship Transfer Applications](https://www.general-security.gov.lb/en/posts/170)
+  - [Complaint Regarding an Escaping Foreign Worker](https://www.general-security.gov.lb/en/posts/324)
+  - [Temporary Residence Permit for Passport Renewal](https://www.general-security.gov.lb/en/posts/68)
+  - [Syrian and Palestinian immigrants](https://www.general-security.gov.lb/en/posts/32)
+    - [](https://www.general-security.gov.lb/en/posts/572)
+    - [](https://www.general-security.gov.lb/en/posts/574)
+    - [Extension of the Regularization of the Status of Syrian Workers in Lebanon until 29 /01/ 2027](https://www.general-security.gov.lb/en/posts/501)
+    - [](https://www.general-security.gov.lb/en/posts/216)
+    - [Sheikhs related to Unitarian Druzes](https://www.general-security.gov.lb/en/posts/208)
+    - [Temporary residence renewal via LibanPost](https://www.general-security.gov.lb/en/posts/297)
+    - [The voluntary return of Syrian displaced persons](https://www.general-security.gov.lb/en/posts/315)
+  - [Mechanism for Issuing Departure Certificates](https://www.general-security.gov.lb/en/posts/383)
+  - [ Residence Permits for Iraqi Nationals in Lebanon](https://www.general-security.gov.lb/en/posts/428)
+  - [A six-month residence visa (multiple-entry), based on a bank statement](https://www.general-security.gov.lb/en/posts/497)
+  - [Applying for a visa renewal via Liban Post](https://www.general-security.gov.lb/en/posts/245)
+  - [regularizing the status of Arab and foreign residents for departure and transfer of sponsorship (kafala transfer)](https://www.general-security.gov.lb/en/posts/444)
+
+- Entry Visas
+  - [Entry of Nationals from Labour-Supplying Countries](https://www.general-security.gov.lb/en/posts/561)
+  - [The list of countries that have the right to a Lebanese visa](https://www.general-security.gov.lb/en/posts/38)
+  - [The terms and conditions to grant a Lebanese visa](https://www.general-security.gov.lb/en/posts/159)
+  - [Types Of Visas](https://www.general-security.gov.lb/en/posts/37)
+  - [A visa for a foreign expert at a port](https://www.general-security.gov.lb/en/posts/65)
+  - [Suspension of Issuing Entry Visas for Nationals of the Democratic Republic of the Congo and Uganda](https://www.general-security.gov.lb/en/posts/552)
+  - [Artists](https://www.general-security.gov.lb/en/posts/39)
+    - [Amendment of Required Documents for Obtaining an Artist Visa](https://www.general-security.gov.lb/en/posts/526)
+    - [Work Permit for Foreign Artists and Musicians](https://www.general-security.gov.lb/en/posts/416)
+    - [Residency of foreign artists](https://www.general-security.gov.lb/en/posts/413)
+    - [Entry visa of an artist to touristic enterprises](https://www.general-security.gov.lb/en/posts/48)
+    - [Models](https://www.general-security.gov.lb/en/posts/47)
+    - [Fees for immediate requests for artists](https://www.general-security.gov.lb/en/posts/278)
+    - [Monitoring and compliance](https://www.general-security.gov.lb/en/posts/9)
+    - [Entry of Artists in nightclubs](https://www.general-security.gov.lb/en/posts/46)
+    - [Artistic Enterprises](https://www.general-security.gov.lb/en/posts/40)
+    - [Bars](https://www.general-security.gov.lb/en/posts/42)
+    - [Nightclubs](https://www.general-security.gov.lb/en/posts/43)
+    - [The Spa](https://www.general-security.gov.lb/en/posts/41)
+  - [Visas or residency permits for students in religions, volunteers, missionaries and men of religion](https://www.general-security.gov.lb/en/posts/239)
+  - [Entry Visa for the foreigners related to the Vatican](https://www.general-security.gov.lb/en/posts/210)
+  - [](https://www.general-security.gov.lb/en/posts/535)
+  - [](https://www.general-security.gov.lb/en/posts/473)
+  - [Work Visa for Indian Citizens](https://www.general-security.gov.lb/en/posts/63)
+
+- Lebanese Passport
+  - [](https://www.general-security.gov.lb/en/posts/564)
+  - [](https://www.general-security.gov.lb/en/posts/571)
+  - [Biometric passport](https://www.general-security.gov.lb/en/posts/11)
+  - [](https://www.general-security.gov.lb/en/posts/81)
+  - [](https://www.general-security.gov.lb/en/posts/493)
+  - [](https://www.general-security.gov.lb/en/posts/549)
+  - [Modification of some letters](https://www.general-security.gov.lb/en/posts/76)
+  - [Lost Passport / Stolen Passport](https://www.general-security.gov.lb/en/posts/14)
+  - [Certifying copies of passport pages](https://www.general-security.gov.lb/en/posts/86)
+  - [](https://www.general-security.gov.lb/en/posts/69)
+  - [](https://www.general-security.gov.lb/en/posts/85)
+  - [Exporting a biometric passport](https://www.general-security.gov.lb/en/posts/72)
+  - [Personal attendance required](https://www.general-security.gov.lb/en/posts/73)
+  - [](https://www.general-security.gov.lb/en/posts/408)
+  - [Passport picture requirements](https://www.general-security.gov.lb/en/posts/80)
+  - [Passport of an adopted, born in special circumstances child or a citizen without a family name](https://www.general-security.gov.lb/en/posts/71)
+
+- For Palestinians
+  - [Travel documents and transit passes](https://www.general-security.gov.lb/en/posts/21)
+    - [A new travelling document](https://www.general-security.gov.lb/en/posts/151)
+    - [Various provisions for biometric travel documents](https://www.general-security.gov.lb/en/posts/200)
+  - [Essential requirements](https://www.general-security.gov.lb/en/posts/88)
+  - [Suspension of Issuance and Renewal of Palestinian Refugee Travel Documents in Lebanon – 1-Year Validity](https://www.general-security.gov.lb/en/posts/363)
+  - [The instructions related to biometric passports granted to Palestinian refugees in Lebanon](https://www.general-security.gov.lb/en/posts/196)
+  - [](https://www.general-security.gov.lb/en/posts/201)
+    - [Methods of control](https://www.general-security.gov.lb/en/posts/19)
+    - [Notice of restrictions under study](https://www.general-security.gov.lb/en/posts/17)
+    - [Residence card of individuals under study](https://www.general-security.gov.lb/en/posts/18)
+    - [Re-registration in the “Under Study” Category](https://www.general-security.gov.lb/en/posts/16)
+    - [Registration and Issuance of Residence for Children Registered under the “Under Study” Category](https://www.general-security.gov.lb/en/posts/89)
+    - [Procedures for Issuing Biometric Travel Documents for “Under Study” and “Unregistered” Categories](https://www.general-security.gov.lb/en/posts/217)
+  - [Costs and fees](https://www.general-security.gov.lb/en/posts/91)
+  - [Palestinian refugees without papers](https://www.general-security.gov.lb/en/posts/90)
+
+- Diplomatic Missions Abroad
+  - [](https://www.general-security.gov.lb/en/posts/565)
+  - [Permission for Entry of Lebanese Nationals Holding 2003 Model Passports and Laissez-Passer (Manually Renewed)](https://www.general-security.gov.lb/en/posts/562)
+  - [Mechanism for Granting Entry Visas to Nationals of Labor-Sending Countries](https://www.general-security.gov.lb/en/posts/563)
+  - [Lebanese Passport Transactions at Lebanese Diplomatic Missions](https://www.general-security.gov.lb/en/posts/402)
+  - [Loss of Passport Abroad](https://www.general-security.gov.lb/en/posts/553)
+  - [Repatriation of a Lebanese National from Abroad](https://www.general-security.gov.lb/en/posts/554)
+  - [](https://www.general-security.gov.lb/en/posts/555)
+  - [Visas Issued by Lebanese Missions Abroad](https://www.general-security.gov.lb/en/posts/550)
+  - [Visa granted by the embassy](https://www.general-security.gov.lb/en/posts/61)
+  - [Entry Visas for Nationals of the Vatican State](https://www.general-security.gov.lb/en/posts/557)
+  - [Conditions for Receiving Entry Visa Applications for Afghan Nationals](https://www.general-security.gov.lb/en/posts/558)
+  - [Regulation of Entry of Iranian Nationals into Lebanon](https://www.general-security.gov.lb/en/posts/559)
+  - [Entry of Indian Nationals](https://www.general-security.gov.lb/en/posts/560)
+  - [Entry and Residence of Ghanaian Nationals](https://www.general-security.gov.lb/en/posts/474)
+
+- 
+  - [](https://www.general-security.gov.lb/en/posts/575)
+  - [](https://www.general-security.gov.lb/en/posts/540)
+  - [](https://www.general-security.gov.lb/en/posts/551)
+  - [](https://www.general-security.gov.lb/en/news/category/3)
+  - [](https://www.general-security.gov.lb/en/news/category/9)
+  - [ICMPD training](https://www.general-security.gov.lb/en/news/category/13)
+  - [](https://www.general-security.gov.lb/en/news/category/1)
+
+- [Contact Us](https://www.general-security.gov.lb/en/contact)
+
+- 
+
+  |        |     |
+  |--------|-----|
+  | Search |     |
+
+|  |  |  |  |  |
+|----|----|----|----|----|
+| [Homepage](https://www.general-security.gov.lb/en) | [Applications](https://www.general-security.gov.lb/en/operations) | [Contact Us](https://www.general-security.gov.lb/en/contact) | [Other Sites](javascript:;) | Please Select Private Primer Ministers Websites --HE Mohammad Najib Mikati --HE Saad Hariri --HE Fouad Siniora --HE Rafik Hariri --HE Salim el Hoss Presidency of the Republic --Presidency of the Lebanese Republic Parliament --Lebanese Parliament Ministries --Ministry of Agriculture --Ministry of Culture --Ministry of Economy and Trade --Ministry of Education and Higher Education --Ministry of Energy and Water --Ministry of Environment --Ministry of Finance --Ministry of Foreign Affairs and Emigrants --Ministry of Industry --Ministry of Industrylabor_ministry --Ministry of Industry --Ministry of Information --Ministry of Interior and Municipalities --Ministry of Post and Telecommunications --Ministry of Public Health --Ministry of Public Works --Ministry of Social Affairs --Ministry of Tourism --Ministry of Youths and Sports --Ministry of State for Administrative Reform --Office of the Minister of State for Parliament Affairs Army and SecurityForces --Lebanese Army --Internal Security Forces --General Security Francophonies 2009 --Francophonies 2009 Public Institutions --Council for Development and Reconstruction --Economic and Social Council --Central Administration of Statistics --Central Inspection Board --Civil Service Board --Investment Development Authorithy of Lebanon - IDAL --Council of the South --Court of Audit --State Council --The Constitutional Council --Central Bank of Lebanon --Banking Control Commission of Lebanon --Beirut Stock Exchange --Higher Coucil for Privatization --Ogero --Telecommunications Regulatory Authority --Electricite du Liban --Beirut Rafik Hariri International Airport --Beirut Port --Public Corporation for Housing (PCH) --National News Agency --National Social Security Fund --National Social Security Fund --The National Commission on Electoral Law --Dar el Fatwa --Druze Personal Status --High Shiite Council --Lebanese Syrian Higher Council --Lebanese General Military Prosecutor --Special Investigation Commission --National Commission for Lebanese Women --Higher Council for Childhood --Unit for Combat of Child Labour in Lebanon --Green Plan --Agricultural Scientific Research Agency --Lebanese Customs --National Council for Scientifc Research --Educational Center for Research and Development --Center for Public Sector Projects and Studies --Lebanese Standards Institute (LIBNOR) --National Archives Institute --National Employment Agency --Cooperative of Government Employees --Lebanese University --Rafik Hariri University Hospital --City of Beirut --Beirut National Museum --UNESCO --Central Fund for the Displaced |
+
+|  |  |  |  |  |
+|----|----|----|----|----|
+| Mon 23 Nov 2026 |     | [عربي](https://www.general-security.gov.lb/ar/posts/68) | [Français](https://www.general-security.gov.lb/fr/posts/68) | [English](https://www.general-security.gov.lb/en/posts/68) |
+
+|        |     |
+|--------|-----|
+| Search |     |
+
+|     |
+|:---:|
+|     |
+
+[TABLE]
+
+[TABLE]
+
+![](https://www.general-security.gov.lb/assets/images/front/full-logo-1.png)
+
+# Temporary Residence Permit for Passport Renewal
+
+![](https://www.general-security.gov.lb/assets/images/front/print.png)
+
+|  |  |  |
+|----|----|----|
+| ![](https://www.general-security.gov.lb/assets/images/front/nav-white-arrow.png) |   | Related Links |
+
+[Residence Types](https://www.general-security.gov.lb/en/posts/556) [Permanent residence](https://www.general-security.gov.lb/en/posts/5) [Annual Residence](https://www.general-security.gov.lb/en/posts/241) [Courtesy Residence](https://www.general-security.gov.lb/en/posts/6) [Residence Permit Application Fees](https://www.general-security.gov.lb/en/posts/169)
+
+[Clearance Certificate for Violators of Work Visas and Residence Permits upon Departure](https://www.general-security.gov.lb/en/posts/431)
+
+[Domestic workers](https://www.general-security.gov.lb/en/posts/183) [The documents required to obtain a domestic worker](https://www.general-security.gov.lb/en/posts/23) [Application for a domestic worker entry visa](https://www.general-security.gov.lb/en/posts/171) [Fees for hiring a domestic worker](https://www.general-security.gov.lb/en/posts/168)
+
+[Sponsorship Transfer Applications](https://www.general-security.gov.lb/en/posts/170) [Complaint Regarding an Escaping Foreign Worker](https://www.general-security.gov.lb/en/posts/324) [Temporary Residence Permit for Passport Renewal](https://www.general-security.gov.lb/en/posts/68)
+
+[Syrian and Palestinian immigrants](https://www.general-security.gov.lb/en/posts/32) [Extension of the Regularization of the Status of Syrian Workers in Lebanon until 29 /01/ 2027](https://www.general-security.gov.lb/en/posts/501) [Sheikhs related to Unitarian Druzes](https://www.general-security.gov.lb/en/posts/208) [Temporary residence renewal via LibanPost](https://www.general-security.gov.lb/en/posts/297) [The voluntary return of Syrian displaced persons](https://www.general-security.gov.lb/en/posts/315)
+
+[Mechanism for Issuing Departure Certificates](https://www.general-security.gov.lb/en/posts/383) [ Residence Permits for Iraqi Nationals in Lebanon](https://www.general-security.gov.lb/en/posts/428) [A six-month residence visa (multiple-entry), based on a bank statement](https://www.general-security.gov.lb/en/posts/497) [Applying for a visa renewal via Liban Post](https://www.general-security.gov.lb/en/posts/245) [regularizing the status of Arab and foreign residents for departure and transfer of sponsorship (kafala transfer)](https://www.general-security.gov.lb/en/posts/444)
+
+1.  Arab and foreign nationals wishing to renew their residence permits who have applied for the renewal of their passports through their respective embassies may be granted a **temporary residence permit** pending the issuance of their new passports, provided that they meet the following conditions:
+
+- An expired foreign passport or a passport valid for less than eight months.
+- A receipt issued by the relevant embassy or a postal notification confirming the dispatch of the new passport (provided that the dispatch was approved by the General Security). The date of the receipt or notification must be at least **15 days before** the expiry of the annual, permanent, or courtesy residence permit.
+- A valid annual, permanent, or courtesy residence permit on the date the application is submitted.
+
+2.  The applicant shall be issued a **receipt valid for a maximum period of three months**, allowing him/her to travel and move freely during this period. Applications shall be processed as follows:
+
+|  |  |
+|----|----|
+| **Annual Residence (Employment)** | **Annual Residence – Permanent Residence (Without Employment) – Courtesy Residence** |
+| Approval shall be granted by the Directorate General of General Security to issue a **free two-month temporary residence permit**, which shall be retained at the regional office until the applicant obtains a new passport. The retention period shall not exceed three months from the expiry date of the previous residence permit. | Approval shall be granted by the Directorate General of General Security to issue a residence permit based on the validity of the previous residence permit, **without late fees**, upon submission of the required documents, provided that the retention period does not exceed three months from the expiry date of the previous residence permit. |
+| The residence permit shall be issued on the new passport. | If the new passport is valid for **more than six months but less than one year**, a one-year residence permit shall be granted after payment of the applicable fees. |
+| When applying for an annual employment residence permit using the new passport, the residence permit shall be granted based on the validity of the previous annual residence permit, after submission of the required documents. |   |
+
+![](https://www.general-security.gov.lb/assets/images/front/full-logo-1.png)
+
+# G.S. Addresses
+
+|     |                   |
+|-----|-------------------|
+|     | Central Direction |
+
+Central Direction\
+
+|                                    |
+|------------------------------------|
+| **Central Direction**              |
+| **Adliyeh - Sami el Soleh street** |
+| 01/386610 - 01/425610              |
+| **Operation Room**                 |
+| **Mathaf**: 01/612401/2/5          |
+
+|     |                              |
+|-----|------------------------------|
+|     | Border centers / departments |
+
+Border centers / departments\
+
+|                                  |
+|----------------------------------|
+| **Beirut International Airport** |
+| 01/629150/1/2 - 01/628570        |
+| **Beirut Port center**           |
+| 01/584400                        |
+| **Jounieh Port center**          |
+| 09/932852                        |
+| **Tripoli Port center**          |
+| 06/600789                        |
+| **Arida center **                |
+| 06/820101                        |
+| **Abboudiye center **            |
+| 06/815151                        |
+| **Bekayya center **              |
+| 06/860023                        |
+| **Kaa center **                  |
+| 08/225101                        |
+| **Al Masnaa center **            |
+| 08/620018                        |
+| **Sour Port center**             |
+| 07/742896                        |
+| **Saida Port center **           |
+| 07/727455                        |
+| **Naqoura center **              |
+| 07/460007                        |
+| **Jiyeh port center **           |
+| 09/995516                        |
+
+ 
+
+|     |        |
+|-----|--------|
+|     | Beirut |
+
+Beirut\
+
+|                                   |
+|-----------------------------------|
+| **Beirut Regional Department**    |
+| 01/568036 - 01/568035 - 01/568034 |
+
+ 
+
+|     |                 |
+|-----|-----------------|
+|     | North and Akkar |
+
+North and Akkar\
+
+|                                                    |
+|----------------------------------------------------|
+| **Northern Lebanon and Akkar regional deparments** |
+| **Northen Lebanon department**                     |
+| 06/431778                                          |
+| **Tripoli** **center**                             |
+| 06/625572                                          |
+| **Miniyeh** **center**                             |
+| 06/463249                                          |
+| **Zgharta** **center**                             |
+| 06/661671                                          |
+| **Bsharri** **center**                             |
+| 06/671199                                          |
+| **Koura** **center**                               |
+| 06/950552                                          |
+| **Batroun** **center**                             |
+| 06/642384                                          |
+| **Danniyeh** **center**                            |
+| 06/490798-06/490877                                |
+| **Akkar department**                               |
+| 06/695796                                          |
+| **Mechmech** **center**                            |
+| 06/895182                                          |
+| **Halba** **center**                               |
+| 06/690004                                          |
+| **Qoubaiyat** **center**                           |
+| 06/350028                                          |
+| **Beino** **center**                               |
+| 06/360345-06/361758                                |
+|                                                    |
+|                                                    |
+
+ 
+
+ 
+
+|     |                              |
+|-----|------------------------------|
+|     | Beqaa and Baalbeck El Hermel |
+
+Beqaa and Baalbeck El Hermel\
+
+|                                                      |
+|------------------------------------------------------|
+| **Beqaa and Baalbeck El Hermel regional department** |
+| **Beqaa department**                                 |
+| 08/803666                                            |
+| **Zahle** **center**                                 |
+| 08/823935                                            |
+| **Joub Jannine** **center**                          |
+| 08/660095                                            |
+| **Rachaya** **center**                               |
+| 08/590620                                            |
+| **Ryak center**                                      |
+| 08/900201                                            |
+| **Mashgharah center**                                |
+| 08/651271                                            |
+| **Bouarej center**                                   |
+| 08/540608                                            |
+| **Baalbeck El Hermel department**                    |
+| 08/374248                                            |
+| **Baalbeck center**                                  |
+| 08/370577                                            |
+| **Shmustar** **center**                              |
+| 08/330106                                            |
+| **Hermel** **center**                                |
+| 08/200139                                            |
+| **Deir el Ahmar** **center**                         |
+| 08/321136                                            |
+| **Laboueh** **center**                               |
+| 08/230094                                            |
+| **Nabi chit center**                                 |
+| 08/345104                                            |
+
+ 
+
+|     |                    |
+|-----|--------------------|
+|     | South and Nabatieh |
+
+South and Nabatieh\
+
+|                                                        |
+|--------------------------------------------------------|
+| **Southern Lebanon and Nabatieh regional departments** |
+| **Southern Lebanon department**                        |
+| 07/724890                                              |
+| **Saidon center**                                      |
+| 07/735534                                              |
+| **Tyre center**                                        |
+| 07/741737                                              |
+| **Jezzine center**                                     |
+| 07/780501                                              |
+| **Jouaiyya center**                                    |
+| 07/411891                                              |
+| **Qana center**                                        |
+| 07/430096                                              |
+| **Zahrani center**                                     |
+| 07/260957                                              |
+| **Nabatiyeh department**                               |
+| 07/760727                                              |
+| **Nabatieh center**                                    |
+| 07/761886                                              |
+| **Bent Jbeil center**                                  |
+| 07/450010                                              |
+| **Marjaayoun center**                                  |
+| 07/830301                                              |
+| **Hasbaiyya center**                                   |
+| 07/550102                                              |
+| **Jbaa center**                                        |
+| 07/211418                                              |
+| **Tebnine center**                                     |
+| 07/326318                                              |
+| **Chebaa center**                                      |
+| 07/565349                                              |
+| **Al Taibah center**                                   |
+| 07/850614                                              |
+
+ 
+
+|     |               |
+|-----|---------------|
+|     | Mount Lebanon |
+
+Mount Lebanon\
+
+[TABLE]
+
+ 
+
+|  |  |
+|:---|---:|
+| ![](https://www.general-security.gov.lb/assets/images/front/Logo_leftt_down.png) ![](https://www.general-security.gov.lb/assets/images/front/sectigo.png) | ![](https://www.general-security.gov.lb/assets/images/front/Logo_right_down.png) |
+
+[![](https://www.general-security.gov.lb/) ![](https://www.general-security.gov.lb/)](javascript:togglefooter();)
+
+[About GS](javascript:;)
+
+- [Functions of the general security](https://www.general-security.gov.lb/en/posts/3)
+- [Historical overview](https://www.general-security.gov.lb/en/posts/2)
+- [](https://www.general-security.gov.lb/en/posts/267)
+- [Electronic services](https://www.general-security.gov.lb/en/posts/162)
+- [Office hours](https://www.general-security.gov.lb/en/posts/178)
+- [Contact Us](https://www.general-security.gov.lb/en/posts/138)
+- [](https://www.general-security.gov.lb/en/posts/317)
+- [General Directors](https://www.general-security.gov.lb/en/about/directors)
+- [Military Ranks](https://www.general-security.gov.lb/en/about/ranks)
+- [GS Chants](https://www.general-security.gov.lb/en/about/chants)
+
+[Residency in Lebanon](javascript:;)
+
+- [Residence Types](https://www.general-security.gov.lb/en/posts/556)
+- [Clearance Certificate for Violators of Work Visas and Residence Permits upon Departure](https://www.general-security.gov.lb/en/posts/431)
+- [Domestic workers](https://www.general-security.gov.lb/en/posts/183)
+- [Sponsorship Transfer Applications](https://www.general-security.gov.lb/en/posts/170)
+- [Complaint Regarding an Escaping Foreign Worker](https://www.general-security.gov.lb/en/posts/324)
+- [Temporary Residence Permit for Passport Renewal](https://www.general-security.gov.lb/en/posts/68)
+- [Syrian and Palestinian immigrants](https://www.general-security.gov.lb/en/posts/32)
+- [Mechanism for Issuing Departure Certificates](https://www.general-security.gov.lb/en/posts/383)
+- [ Residence Permits for Iraqi Nationals in Lebanon](https://www.general-security.gov.lb/en/posts/428)
+- [A six-month residence visa (multiple-entry), based on a bank statement](https://www.general-security.gov.lb/en/posts/497)
+- [Applying for a visa renewal via Liban Post](https://www.general-security.gov.lb/en/posts/245)
+- [regularizing the status of Arab and foreign residents for departure and transfer of sponsorship (kafala transfer)](https://www.general-security.gov.lb/en/posts/444)
+
+[Entry Visas](javascript:;)
+
+- [Entry of Nationals from Labour-Supplying Countries](https://www.general-security.gov.lb/en/posts/561)
+- [The list of countries that have the right to a Lebanese visa](https://www.general-security.gov.lb/en/posts/38)
+- [The terms and conditions to grant a Lebanese visa](https://www.general-security.gov.lb/en/posts/159)
+- [Types Of Visas](https://www.general-security.gov.lb/en/posts/37)
+- [A visa for a foreign expert at a port](https://www.general-security.gov.lb/en/posts/65)
+- [Suspension of Issuing Entry Visas for Nationals of the Democratic Republic of the Congo and Uganda](https://www.general-security.gov.lb/en/posts/552)
+- [Artists](https://www.general-security.gov.lb/en/posts/39)
+- [Visas or residency permits for students in religions, volunteers, missionaries and men of religion](https://www.general-security.gov.lb/en/posts/239)
+- [Entry Visa for the foreigners related to the Vatican](https://www.general-security.gov.lb/en/posts/210)
+- [](https://www.general-security.gov.lb/en/posts/535)
+- [](https://www.general-security.gov.lb/en/posts/473)
+- [Work Visa for Indian Citizens](https://www.general-security.gov.lb/en/posts/63)
+
+[Lebanese Passport](javascript:;)
+
+- [](https://www.general-security.gov.lb/en/posts/564)
+- [](https://www.general-security.gov.lb/en/posts/571)
+- [Biometric passport](https://www.general-security.gov.lb/en/posts/11)
+- [](https://www.general-security.gov.lb/en/posts/81)
+- [](https://www.general-security.gov.lb/en/posts/493)
+- [](https://www.general-security.gov.lb/en/posts/549)
+- [Modification of some letters](https://www.general-security.gov.lb/en/posts/76)
+- [Lost Passport / Stolen Passport](https://www.general-security.gov.lb/en/posts/14)
+- [Certifying copies of passport pages](https://www.general-security.gov.lb/en/posts/86)
+- [](https://www.general-security.gov.lb/en/posts/69)
+- [](https://www.general-security.gov.lb/en/posts/85)
+- [Exporting a biometric passport](https://www.general-security.gov.lb/en/posts/72)
+- [Personal attendance required](https://www.general-security.gov.lb/en/posts/73)
+- [](https://www.general-security.gov.lb/en/posts/408)
+- [Passport picture requirements](https://www.general-security.gov.lb/en/posts/80)
+- [Passport of an adopted, born in special circumstances child or a citizen without a family name](https://www.general-security.gov.lb/en/posts/71)
+
+[For Palestinians](javascript:;)
+
+- [Travel documents and transit passes](https://www.general-security.gov.lb/en/posts/21)
+- [Essential requirements](https://www.general-security.gov.lb/en/posts/88)
+- [Suspension of Issuance and Renewal of Palestinian Refugee Travel Documents in Lebanon – 1-Year Validity](https://www.general-security.gov.lb/en/posts/363)
+- [The instructions related to biometric passports granted to Palestinian refugees in Lebanon](https://www.general-security.gov.lb/en/posts/196)
+- [](https://www.general-security.gov.lb/en/posts/201)
+- [Costs and fees](https://www.general-security.gov.lb/en/posts/91)
+- [Palestinian refugees without papers](https://www.general-security.gov.lb/en/posts/90)
+
+[](http://www.teleblue.net)
+
+|  |  |  |  |  |
+|----|----|----|----|----|
+| Follow Us |   | [](http://twitter.com/DGSG_Security) |   | [](https://facebook.com/GSLEBANON) |
+
+|  |  |  |
+|----|----|----|
+| © All Rights Reserved |  | [Legal Notice](https://www.general-security.gov.lb/en/legalnotice) \| [Historical Overview](https://www.general-security.gov.lb/en/posts/2) \| [Contact Us](https://www.general-security.gov.lb/en/contact) \| [Site map](https://www.general-security.gov.lb/en/sitemap) |
