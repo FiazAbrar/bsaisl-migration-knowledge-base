@@ -1,0 +1,203 @@
+# Welcome
+
+#  Information for Visa applicants for Opportunity card (Sections 20a + 20b Residence Act) 
+
+14.01.2026 - Article
+
+All Bangladeshi nationals who intend to work in the Federal Republic of Germany require a visa prior to their departure.
+
+Please visit the website “[Make it in Germany](https://www.make-it-in-germany.com/de/)” for in-depth information on the “Opportunity Card” for job search.
+
+An application may only be filed at the German Embassy Dhaka under the provision that the applicant has a permanent residence in the area of jurisdiction of this Embassy.
+
+**Application**
+
+Please note that visa applicants for all visa applicants have to register an online appointment prior to submitting their application. You can register [here](https://digital.diplo.de/chancenkarte).
+
+Admission to the Visa Section of the German Embassy will only be granted at the time of the scheduled appointment. Being late for more than 15 minutes will consequently result in scheduling a new appointment.
+
+The visa application must be supported by all the necessary documents as only applications with complete documentation can be accepted.
+
+Simultaneous applications for a Schengen visa and a National visa cannot be processed.
+
+**Fees**
+
+Visa fees are payable in BDT. The fees are fixed in Euro (please refer to the separate information sheet – therefore the equivalent in Bangladeshi currency may vary according to the exchange rate.
+
+The complete fee has to be paid upon application and will not be refunded in case the visa application is rejected.
+
+**Processing Time**
+
+The minimum time to process your visa is approx. 6 weeks.
+
+Please apply for your visa in due time.
+
+**Checklist**
+
+Before submitting your application, please prepare the documents in the following order:
+
+- Valid passport (issued within the last 10 years; passports with observations on the front data page cannot be accepted) with at least two empty pages
+
+- 1 passport photo complying with biometric specifications, not older than 6 months
+
+- [Application form](https://videx-national.diplo.de/videx/visum-erfassung/#/videx-langfristiger-aufenthalt) & [declaration ](https://dhaka.diplo.de/bd-en/service/visa-einreise/-/2669542)duly signed
+
+- Copy of your passport’s data page (A4 size copy)
+
+- Proof of vocational or academic training (e.g. University degree further information down below)
+
+- If applicable: prior work experience in the form of confirmation letters by previous employers
+
+- Motivation letter/ statement of purpose that must contain the following information:
+
+  - What type of work or job you intend to do in Germany?
+
+  - If and since when you learn German
+
+  - Why you intend to move to Germany and not another EU country
+
+  - If you have already applied for jobs (at which company) or have already been invited to job interview
+
+- Curriculum Vitae
+
+- Proof of sufficient financial means to cover the costs of living for the duration of your stay by one of the following documents:
+
+  - Proof of a **“Sperrkonto”** (blocked account) in Germany with sufficient funds currently amounting to at least 1.091,-- EUR/month plus sufficient funds for the return flight
+
+  - “**Verpflichtungserklärung”** Declaration of commitment: Proof in the form of a formal declaration of commitment pursuant to Sections 66 and 68 Residence Act to the German foreigners authority in which a third person undertakes to cover all costs (original document)
+
+**OR**
+
+- Proof of health insurance for the duration of your stay - (proof to be provided at the latest when collecting the visa!)
+
+  - Proof of a private German health insurance which (so-called **incoming travel insurance**) valid in the entire Schengen area for the entire period of validity of the opportunity card, minimum coverage of 30,000 euro
+
+**OR**
+
+- Proof of a public German health insurance, which consists of a letter from your German healthcare provider, as well as a travel health insurance for the first three weeks.
+
+Flight reservations and hotel reservations are not required to apply for a visa – please only book when you have gotten information from the embassy that your visa will be granted.
+
+- Visa fee
+
+**There are two options to obtain an opportunity card:**
+
+Option 1: Proof of full recognition of your qualification for Germany
+
+Have you completed German vocational training or a degree from a German university? Or foreign vocational training or a degree from a foreign university which are recognised in Germany?
+
+Then you are considered a **skilled worker** pursuant to Section 18 III Residence Act and you do not need to collect points to get the opportunity card. Please provide proof of your qualification as a skilled worker in the form of:
+
+- Certificate of **vocational training in Germany** (original document + copy)
+
+OR
+
+- Certificate of **degree from a university in Germany** (original document + copy)
+
+OR
+
+- Recognition of the **equivalence of the foreign vocational qualification** from the respective agency responsible for recognition (original document + copy)
+
+OR
+
+- Certificate of **degree from a foreign university** (original document + copy)
+
+AND
+
+- **Recognition of equivalence of the foreign university degree**
+
+  - **Statement of comparability by the Central Office for Foreign Education (ZAB)** (original document + copy) (if the qualification is not assessed as “entspricht” (comparable) or “gleichwertig” (equivalent) and/or the institution is not classified as “H+” or it is not the same degree that is shown in the database)
+
+OR
+
+- Either through a **printout from the anabin database** for your university degree and university (Please note: It must be the exact same degree and university).
+
+OR
+
+- in the case of **regulated professions** in which permission is required to exercise the profession, for example, doctors, engineers; complete list is available from the [Federal Employment Agency](https://berufenet.arbeitsagentur.de/berufenet/faces/index;BERUFENETJSESSIONID=dk3lYYRDiCA654aJoLh5psLR1rlfVz8zUBY_PyxYh5Wkcu7Mx-hF!-165478963?path=null/reglementierteBerufe&such=eglementierte+berufe) or the [European Commission](https://ec.europa.eu/growth/tools-databases/regprof/index.cfm):
+
+- Permission to exercise a profession issued by the authority responsible for recognising qualifications, or assurance of permission to exercise a profession (for example, for medical professions: decision of the licensing authority in the federal territory, i.e. assurance of permission to exercise a profession or issuing of medical licence (original document + copy)
+
+Please find more information here: [www.anerkennung-in-deutschland.de](https://www.anerkennung-in-deutschland.de/html/en/index.php)
+
+Option 2: Score of a minimum of six points
+
+If you are not a skilled worker (see above for definition), you have to meet and prove the following requirements:
+
+Mandatory Education
+
+- **Completed vocational training** of at least two years that is recognised by the state in which it was obtained (original document + copy)
+
+AND
+
+- Confirmation from the German Central Office for Foreign Education (ZAB)
+
+OR
+
+- **Completed university degree** that is recognised by the state in which it was obtained (original document + copy)
+
+AND
+
+- Confirmation from the German Central Office for Foreign Education (ZAB)
+
+Applications for the confirmation from the German Central Office for Foreign Education (ZAB) can be made through [this website](https://zab.kmk.org/en/dab).
+
+Mandatory Language Skills
+
+- Certificate (original document + copy) of your **knowledge of the German language** – at least A1! issued by Goethe Institute
+
+AND / OR
+
+- Certificate (original document + copy) of your **knowledge of the English language** – at least B2! The issuer of the certificate must be certified by the Association of Language Testers in Europe (ALTE); alternatively, the Test of English as a Foreign Language (TOEFL) is also accepted.
+
+Note: The documents listed above are also relevant for calculating your points for the opportunity card! You can be awarded points for knowledge of German and English at certain levels, as well as for partial recognition of your foreign vocational qualification.
+
+You can also collect **points for the opportunity card** (details on the number of points awarded are available on our website and at [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/job-search-opportunity-card)) by proving the following:
+
+- Partial recognition of vocational qualification: Proof in the form of notification of partial recognition (Teil-Anerkennungsbescheid) is necessary
+- Proof of your **professional experience** in the last 5 or 7 years insofar as this is connected to your vocational qualification: employment references, confirmation of employment from your employer, etc. (original documents + copy)
+- If you have been **legally resident in Germany** for an uninterrupted period of at least 6 months in the last 5 years (short stays under the Schengen Agreement do not count!), please prove this by providing suitable documents, for example, (valid rental contracts, terms of employment, service contracts, etc. passports with visas and entry stamps)
+- Does your **spouse/registered partner also want to apply for an opportunity card** – or have they already done so – to then enter Germany together with you? If yes, one of you can collect 1 additional point for the opportunity card. Please enclose proof of the opportunity card application submitted by your spouse/partner.
+- If your age is **below 35 or between 35 and 40** and the time of application
+- If your qualification is in one of the “**Shortage Occupations**” (this will be checked by the visa section during your application process)
+
+Kindly note that the Opportunity Card does allow working in Germany with certain limits:
+
+You are permitted to work for an average of a total maximum of 20 hours per week. If you already have a work contract at the time of your visa application, this can count towards your proof of sufficient financial means. If that is the case for you, please hand in work contract, “[Erklärung zum Beschäftigungsverhältnis](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.arbeitsagentur.de/datei/erklaerung-zum-beschaeftigungsverhaeltnis_ba047549.pdf&ved=2ahUKEwiPy6-QyP6IAxW_R_EDHRfTHPcQFnoECAgQAQ&usg=AOvVaw3A8gEb5vekoW_q3njDj_oQ)” .
+
+You are also permitted to participate in a try-out-period of no more than two weeks. This trial work would have to be in line with your qualification or be aimed towards starting a vocational training or must be connected to a training measure according to your partial recognition of your training.
+
+You are not allowed other types of employment. Your visa will however be changed to a residence permit for employment and work permit once you have found adequate employment in Germany.
+
+Missing documents may be handed in after the application has been filed with the Embassy. They are to be sent by e-mail, mail or handed in in person at the Embassy’s gate. The five-digit file number of the application must be indicated on the envelope.
+
+**Failure to produce any of the documents above or further documents required within a set period of time is likely to lead to refusal of the application. Deadlines set may be extended after consultation with the officer in charge.**
+
+All photocopies must be fully legible and will be refused in case they are not**.**
+
+**It is expected that an applicant is reachable through the cell phone number and email address provided on the application form.**
+
+All documents in Bengali (or other language) have to be supported by an English or German translation.
+
+Please do not submit documents in both English and German. Preferable submit the German version of the document.
+
+Please note that the German Missions reserve the right to ask for additional documents or the verification of certificates, for which additional fees would be charged.
+
+Submission of the above-mentioned documents does not guarantee that a visa is granted.
+
+**The regulations have** ****been issued by the Embassy of the Federal Republic of Germany and are subject to change without prior notice.**
+
+Download this page as [pdf](/resource/blob/2692158/69e53d6e6a1ada7c072c37bbf8b66276/p-2026-information-sheet-opportunity-card-data.pdf "2026 Information sheet opportunity card").
+
+[ Overview "Services"](/bd-en/service "Overview Services")
+
+- [Print page ](javascript:window.print() "Print page")
+
+- ### Share page
+
+  - [WhatsApp](WhatsApp://send?text=Services%20https://dhaka.diplo.de/bd-en/service/2685670-2685670 "WhatsApp")
+  - [Facebook](http://www.facebook.com/sharer.php?u=https://dhaka.diplo.de/bd-en/service/2685670-2685670 "Facebook")
+  - [X](https://twitter.com/intent/tweet?url=https://dhaka.diplo.de/bd-en/service/2685670-2685670&text=Services "X")
+  - [Mail](mailto:?subject=Recommendation%20from%20the%20website%20of%20the%20Federal%20Foreign%20Office&body=The%20following%20article%20might%20be%20interesting%20for%20you:%20https://dhaka.diplo.de/bd-en/service/2685670-2685670 "Mail")
+
+- [Top of page ](#header "Top of page")

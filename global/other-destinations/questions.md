@@ -2,14 +2,8 @@
 
 These are the questions the Other destinations doc can't yet answer, grouped by the doc's sections. Each is a "Need to know" in `doc.md`.
 
-## Australia
-
-- What is the student work limit now on the Department of Home Affairs site (hours per fortnight), and does it apply to Bangladeshi students from 2026?
-- What bank balance and IELTS score does a Bangladeshi student visa applicant need in 2026?
-
 ## Ireland
 
-- What are the 2026 Irish study visa fees in taka or rupees, and does a Bangladeshi still apply through New Delhi or now through a centre in Dhaka?
 - Does the Irish Medical Council now list any Bangladeshi medical degree as recognised?
 
 ## Iraq
@@ -20,28 +14,24 @@ These are the questions the Other destinations doc can't yet answer, grouped by 
 
 ## Spain
 
-- How many Bangladeshis applied under Spain's 2026 regularisation, and how many were approved?
-- What papers does Spain accept as proof of five months' residence (address registration, others)?
+- How many Bangladeshis applied under Spain's 2026 regularisation, and how many have been approved?
 
 ## Germany
 
-- What is the blocked-account amount for the Opportunity Card in 2026, and how many Bangladeshis have received the card?
+- How many Bangladeshis have received the Opportunity Card?
 
 ## Austria
 
 - Was the Austria-Bangladesh migration and mobility MoU signed, and does it open any work route?
+- What monthly amount must a student under 24 show for an Austrian residence permit in 2026?
 
 ## Taiwan
 
-- Who may act as guarantor for a Bangladeshi applicant if the student has no relative in Taiwan: can the university do it?
-
-## New Zealand
-
-- Has the Bangladesh high commission in Wellington opened, and at what address?
+- Can a Taiwanese university's international office sign the visa guarantee letter for a Bangladeshi student who has no relative in Taiwan?
 
 ## Bahrain
 
-- Since when have Bahrain's visas been closed to Bangladeshis, and which categories (if any) have reopened in 2026?
+- Has Bahrain's LMRA (Labour Market Regulatory Authority) issued any new work permits to Bangladeshis since the November 2025 talks?
 
 ## Cyprus
 
